@@ -1,48 +1,48 @@
-﻿indicador,Empresa,Industria,seccion
-Ratio Precio/UtilidadTTM,"32,22","43,94",Ratios_valoración
-Precio/VentasTTM,"1,93","2,41",Ratios_valoración
-Precio/Flujo de cajaMRQ,"11,9","-4,25",Ratios_valoración
-Precio/Flujo de caja libreTTM,"16,48","17,61",Ratios_valoración
-Precio/Valor ContableMRQ,"1,75","-17,96",Ratios_valoración
-Precio/Valor Contable NetoMRQ,"9,78","-16,06",Ratios_valoración
-Margen brutoTTM,"36,74%","41,11%",Rentabilidad
-Margen bruto5YA,"33,87%","39,96%",Rentabilidad
-Margen operativoTTM,"14,51%","11,12%",Rentabilidad
-Margen operativo5YA,"8,64%","3,05%",Rentabilidad
-Margen Antes de ImpuestosTTM,"9,04%","9,95%",Rentabilidad
-Margen Antes de Impuestos5YA,"4,23%","15,65%",Rentabilidad
-Margen de utilidad netoTTM,"6,07%",7%,Rentabilidad
-Margen de utilidad neto5YA,"2,09%","13,49%",Rentabilidad
-Beneficio/AcciónTTM,"50,83","194,18",Datos_por_acción
-BPA BásicoANN,"2,72","2,93",Datos_por_acción
-BPA DiluidoANN,"2,72","2,89",Datos_por_acción
-Ratio Bolsa/LibrosMRQ,"56,32","131,91",Datos_por_acción
-Valor Contable Neto/AcciónMRQ,"10,08","-9,31",Datos_por_acción
-Efectivo/AcciónMRQ,"3,03","42,46",Datos_por_acción
-Flujo de caja/AcciónTTM,"8,21","3,81",Datos_por_acción
-Rentabilidad sobre fondos propiosTTM,"5,9%","5,45%",Eficacia_gestión
-Rentabilidad sobre la inversión5YA,"2,36%","4,78%",Eficacia_gestión
-Rentabilidad sobre los activosTTM,"4,25%","2,29%",Eficacia_gestión
-Rentabilidad sobre los activos5YA,"2,21%","2,23%",Eficacia_gestión
-Rentabilidad sobre la inversiónTTM,"5,5%","6,08%",Eficacia_gestión
-Rentabilidad sobre fondos propios5YA,"2,79%","4,82%",Eficacia_gestión
-BPA(MRQ) vs Trimestre 1 Año AtrásMRQ,"34,62%","56,91%",Crecimiento
-BPA(TTM) vs TTM 1 Año AtrásTTM,"88,42%","-8,57%",Crecimiento
-Crecimiento del BPA en 5 Años5YA,"-15,36%","1,84%",Crecimiento
-Ventas (MRQ) vs Trimestre 1 Año AtrásMRQ,"4,85%","11,4%",Crecimiento
-Ventas (TTM) vs TTM 1 Año AtrásTTM,"4,01%","76,5%",Crecimiento
-Crecimiento de las Ventas en 5 Años5YA,"5,59%","11,1%",Crecimiento
-Crecimiento del Consumo de Capital en 5 Años5YA,"2,11%","28,71%",Crecimiento
-Test ácidoMRQ,"0,55","1,04",Fuerza_financiera
-Ratio de solvenciaMRQ,"0,68","1,26",Fuerza_financiera
-Deuda a largo plazo/Total fondos propiosMRQ,"36,25%","137,64%",Fuerza_financiera
-Total deuda/Total fondos propiosMRQ,"42,45%","-446,41%",Fuerza_financiera
-Rotación de ActivosTTM,"0,47","0,52",Eficiencia
-Rotación de InventariosTTM,"17,9","15,54",Eficiencia
-Ingresos /EmpleadoTTM,"0,47","2,65",Eficiencia
-Beneficio neto/EmpleadoTTM,"0,03","0,16",Eficiencia
-Rotación de Cuentas a CobrarTTM,"6,64","7,22",Eficiencia
-Rentabilidad por DividendoANN,"0,96%","1,25%",Dividendo
-Promedio de Rendimiento del Dividendo en 5 Años5YA,"0,63%","1,51%",Dividendo
-Tasa de Crecimiento de los DividendosANN,"66,67%","-1,57%",Dividendo
-Ratio PayoutTTM,"24,33%","-101,88%",Dividendo
+﻿indicador,Empresa,Industria,seccion,company
+Ratio Precio/UtilidadTTM,"32,22","43,94",Ratios_valoración,disney
+Precio/VentasTTM,"1,93","2,41",Ratios_valoración,disney
+Precio/Flujo de cajaMRQ,"11,9","-4,25",Ratios_valoración,disney
+Precio/Flujo de caja libreTTM,"16,48","17,61",Ratios_valoración,disney
+Precio/Valor ContableMRQ,"1,75","-17,96",Ratios_valoración,disney
+Precio/Valor Contable NetoMRQ,"9,78","-16,06",Ratios_valoración,disney
+Margen brutoTTM,"36,74%","41,11%",Rentabilidad,disney
+Margen bruto5YA,"33,87%","39,96%",Rentabilidad,disney
+Margen operativoTTM,"14,51%","11,12%",Rentabilidad,disney
+Margen operativo5YA,"8,64%","3,05%",Rentabilidad,disney
+Margen Antes de ImpuestosTTM,"9,04%","9,95%",Rentabilidad,disney
+Margen Antes de Impuestos5YA,"4,23%","15,65%",Rentabilidad,disney
+Margen de utilidad netoTTM,"6,07%",7%,Rentabilidad,disney
+Margen de utilidad neto5YA,"2,09%","13,49%",Rentabilidad,disney
+Beneficio/AcciónTTM,"50,83","194,18",Datos_por_acción,disney
+BPA BásicoANN,"2,72","2,93",Datos_por_acción,disney
+BPA DiluidoANN,"2,72","2,89",Datos_por_acción,disney
+Ratio Bolsa/LibrosMRQ,"56,32","131,91",Datos_por_acción,disney
+Valor Contable Neto/AcciónMRQ,"10,08","-9,31",Datos_por_acción,disney
+Efectivo/AcciónMRQ,"3,03","42,46",Datos_por_acción,disney
+Flujo de caja/AcciónTTM,"8,21","3,81",Datos_por_acción,disney
+Rentabilidad sobre fondos propiosTTM,"5,9%","5,45%",Eficacia_gestión,disney
+Rentabilidad sobre la inversión5YA,"2,36%","4,78%",Eficacia_gestión,disney
+Rentabilidad sobre los activosTTM,"4,25%","2,29%",Eficacia_gestión,disney
+Rentabilidad sobre los activos5YA,"2,21%","2,23%",Eficacia_gestión,disney
+Rentabilidad sobre la inversiónTTM,"5,5%","6,08%",Eficacia_gestión,disney
+Rentabilidad sobre fondos propios5YA,"2,79%","4,82%",Eficacia_gestión,disney
+BPA(MRQ) vs Trimestre 1 Año AtrásMRQ,"34,62%","56,91%",Crecimiento,disney
+BPA(TTM) vs TTM 1 Año AtrásTTM,"88,42%","-8,57%",Crecimiento,disney
+Crecimiento del BPA en 5 Años5YA,"-15,36%","1,84%",Crecimiento,disney
+Ventas (MRQ) vs Trimestre 1 Año AtrásMRQ,"4,85%","11,4%",Crecimiento,disney
+Ventas (TTM) vs TTM 1 Año AtrásTTM,"4,01%","76,5%",Crecimiento,disney
+Crecimiento de las Ventas en 5 Años5YA,"5,59%","11,1%",Crecimiento,disney
+Crecimiento del Consumo de Capital en 5 Años5YA,"2,11%","28,71%",Crecimiento,disney
+Test ácidoMRQ,"0,55","1,04",Fuerza_financiera,disney
+Ratio de solvenciaMRQ,"0,68","1,26",Fuerza_financiera,disney
+Deuda a largo plazo/Total fondos propiosMRQ,"36,25%","137,64%",Fuerza_financiera,disney
+Total deuda/Total fondos propiosMRQ,"42,45%","-446,41%",Fuerza_financiera,disney
+Rotación de ActivosTTM,"0,47","0,52",Eficiencia,disney
+Rotación de InventariosTTM,"17,9","15,54",Eficiencia,disney
+Ingresos /EmpleadoTTM,"0,47","2,65",Eficiencia,disney
+Beneficio neto/EmpleadoTTM,"0,03","0,16",Eficiencia,disney
+Rotación de Cuentas a CobrarTTM,"6,64","7,22",Eficiencia,disney
+Rentabilidad por DividendoANN,"0,96%","1,25%",Dividendo,disney
+Promedio de Rendimiento del Dividendo en 5 Años5YA,"0,63%","1,51%",Dividendo,disney
+Tasa de Crecimiento de los DividendosANN,"66,67%","-1,57%",Dividendo,disney
+Ratio PayoutTTM,"24,33%","-101,88%",Dividendo,disney

@@ -1,48 +1,48 @@
-﻿indicador,Empresa,Industria,seccion
-Ratio Precio/UtilidadTTM,"22,54","36,98",Ratios_valoración
-Precio/VentasTTM,"2,1","6,06",Ratios_valoración
-Precio/Flujo de cajaMRQ,"16,42","25,38",Ratios_valoración
-Precio/Flujo de caja libreTTM,"19,32","27,44",Ratios_valoración
-Precio/Valor ContableMRQ,"7,17","7,99",Ratios_valoración
-Precio/Valor Contable NetoMRQ,"7,43","9,03",Ratios_valoración
-Margen brutoTTM,"43,96%","64,42%",Rentabilidad
-Margen bruto5YA,"44,5%","63,05%",Rentabilidad
-Margen operativoTTM,"10,52%","25,82%",Rentabilidad
-Margen operativo5YA,"12,71%","23,79%",Rentabilidad
-Margen Antes de ImpuestosTTM,"11,07%","25,31%",Rentabilidad
-Margen Antes de Impuestos5YA,"12,41%","22,7%",Rentabilidad
-Margen de utilidad netoTTM,"9,43%","16,57%",Rentabilidad
-Margen de utilidad neto5YA,"10,72%","16,27%",Rentabilidad
-Beneficio/AcciónTTM,"32,03","176,92",Datos_por_acción
-BPA BásicoANN,"3,76","24,41",Datos_por_acción
-BPA DiluidoANN,"3,73","24,37",Datos_por_acción
-Ratio Bolsa/LibrosMRQ,"9,48","103,73",Datos_por_acción
-Valor Contable Neto/AcciónMRQ,"9,14","43,78",Datos_por_acción
-Efectivo/AcciónMRQ,"5,82","39,23",Datos_por_acción
-Flujo de caja/AcciónTTM,"4,09","39,46",Datos_por_acción
-Rentabilidad sobre fondos propiosTTM,"31,93%","25,97%",Eficacia_gestión
-Rentabilidad sobre la inversión5YA,"40,51%","24,51%",Eficacia_gestión
-Rentabilidad sobre los activosTTM,"8,37%","13,8%",Eficacia_gestión
-Rentabilidad sobre los activos5YA,"10,3%","11,94%",Eficacia_gestión
-Rentabilidad sobre la inversiónTTM,"12,03%",18%,Eficacia_gestión
-Rentabilidad sobre fondos propios5YA,"15,24%","16,5%",Eficacia_gestión
-BPA(MRQ) vs Trimestre 1 Año AtrásMRQ,"-30,24%","-3,2%",Crecimiento
-BPA(TTM) vs TTM 1 Año AtrásTTM,"-11,21%","50,33%",Crecimiento
-Crecimiento del BPA en 5 Años5YA,"8,42%","16,39%",Crecimiento
-Ventas (MRQ) vs Trimestre 1 Año AtrásMRQ,"-9,33%","5,18%",Crecimiento
-Ventas (TTM) vs TTM 1 Año AtrásTTM,"-7,3%","5,5%",Crecimiento
-Crecimiento de las Ventas en 5 Años5YA,"5,6%","12,28%",Crecimiento
-Crecimiento del Consumo de Capital en 5 Años5YA,"-6,21%","12,62%",Crecimiento
-Test ácidoMRQ,"1,33","1,46",Fuerza_financiera
-Ratio de solvenciaMRQ,"2,19","2,46",Fuerza_financiera
-Deuda a largo plazo/Total fondos propiosMRQ,"56,8%","28,49%",Fuerza_financiera
-Total deuda/Total fondos propiosMRQ,"85,04%","77,21%",Fuerza_financiera
-Rotación de ActivosTTM,"1,27","0,81",Eficiencia
-Rotación de InventariosTTM,"3,51","1,76",Eficiencia
-Ingresos /EmpleadoTTM,"0,6","1,27",Eficiencia
-Beneficio neto/EmpleadoTTM,"0,06","0,16",Eficiencia
-Rotación de Cuentas a CobrarTTM,"10,61","20,84",Eficiencia
-Rentabilidad por DividendoANN,"2,13%",1%,Dividendo
-Promedio de Rendimiento del Dividendo en 5 Años5YA,"1,85%","1,27%",Dividendo
-Tasa de Crecimiento de los DividendosANN,"8,11%","15,62%",Dividendo
-Ratio PayoutTTM,"45,78%","47,49%",Dividendo
+﻿indicador,Empresa,Industria,seccion,company
+Ratio Precio/UtilidadTTM,"22,54","36,98",Ratios_valoración,nike
+Precio/VentasTTM,"2,1","6,06",Ratios_valoración,nike
+Precio/Flujo de cajaMRQ,"16,42","25,38",Ratios_valoración,nike
+Precio/Flujo de caja libreTTM,"19,32","27,44",Ratios_valoración,nike
+Precio/Valor ContableMRQ,"7,17","7,99",Ratios_valoración,nike
+Precio/Valor Contable NetoMRQ,"7,43","9,03",Ratios_valoración,nike
+Margen brutoTTM,"43,96%","64,42%",Rentabilidad,nike
+Margen bruto5YA,"44,5%","63,05%",Rentabilidad,nike
+Margen operativoTTM,"10,52%","25,82%",Rentabilidad,nike
+Margen operativo5YA,"12,71%","23,79%",Rentabilidad,nike
+Margen Antes de ImpuestosTTM,"11,07%","25,31%",Rentabilidad,nike
+Margen Antes de Impuestos5YA,"12,41%","22,7%",Rentabilidad,nike
+Margen de utilidad netoTTM,"9,43%","16,57%",Rentabilidad,nike
+Margen de utilidad neto5YA,"10,72%","16,27%",Rentabilidad,nike
+Beneficio/AcciónTTM,"32,03","176,92",Datos_por_acción,nike
+BPA BásicoANN,"3,76","24,41",Datos_por_acción,nike
+BPA DiluidoANN,"3,73","24,37",Datos_por_acción,nike
+Ratio Bolsa/LibrosMRQ,"9,48","103,73",Datos_por_acción,nike
+Valor Contable Neto/AcciónMRQ,"9,14","43,78",Datos_por_acción,nike
+Efectivo/AcciónMRQ,"5,82","39,23",Datos_por_acción,nike
+Flujo de caja/AcciónTTM,"4,09","39,46",Datos_por_acción,nike
+Rentabilidad sobre fondos propiosTTM,"31,93%","25,97%",Eficacia_gestión,nike
+Rentabilidad sobre la inversión5YA,"40,51%","24,51%",Eficacia_gestión,nike
+Rentabilidad sobre los activosTTM,"8,37%","13,8%",Eficacia_gestión,nike
+Rentabilidad sobre los activos5YA,"10,3%","11,94%",Eficacia_gestión,nike
+Rentabilidad sobre la inversiónTTM,"12,03%",18%,Eficacia_gestión,nike
+Rentabilidad sobre fondos propios5YA,"15,24%","16,5%",Eficacia_gestión,nike
+BPA(MRQ) vs Trimestre 1 Año AtrásMRQ,"-30,24%","-3,2%",Crecimiento,nike
+BPA(TTM) vs TTM 1 Año AtrásTTM,"-11,21%","50,33%",Crecimiento,nike
+Crecimiento del BPA en 5 Años5YA,"8,42%","16,39%",Crecimiento,nike
+Ventas (MRQ) vs Trimestre 1 Año AtrásMRQ,"-9,33%","5,18%",Crecimiento,nike
+Ventas (TTM) vs TTM 1 Año AtrásTTM,"-7,3%","5,5%",Crecimiento,nike
+Crecimiento de las Ventas en 5 Años5YA,"5,6%","12,28%",Crecimiento,nike
+Crecimiento del Consumo de Capital en 5 Años5YA,"-6,21%","12,62%",Crecimiento,nike
+Test ácidoMRQ,"1,33","1,46",Fuerza_financiera,nike
+Ratio de solvenciaMRQ,"2,19","2,46",Fuerza_financiera,nike
+Deuda a largo plazo/Total fondos propiosMRQ,"56,8%","28,49%",Fuerza_financiera,nike
+Total deuda/Total fondos propiosMRQ,"85,04%","77,21%",Fuerza_financiera,nike
+Rotación de ActivosTTM,"1,27","0,81",Eficiencia,nike
+Rotación de InventariosTTM,"3,51","1,76",Eficiencia,nike
+Ingresos /EmpleadoTTM,"0,6","1,27",Eficiencia,nike
+Beneficio neto/EmpleadoTTM,"0,06","0,16",Eficiencia,nike
+Rotación de Cuentas a CobrarTTM,"10,61","20,84",Eficiencia,nike
+Rentabilidad por DividendoANN,"2,13%",1%,Dividendo,nike
+Promedio de Rendimiento del Dividendo en 5 Años5YA,"1,85%","1,27%",Dividendo,nike
+Tasa de Crecimiento de los DividendosANN,"8,11%","15,62%",Dividendo,nike
+Ratio PayoutTTM,"45,78%","47,49%",Dividendo,nike

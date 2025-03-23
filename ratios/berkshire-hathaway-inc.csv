@@ -1,48 +1,48 @@
-﻿indicador,Empresa,Industria,seccion
-Ratio Precio/UtilidadTTM,"12,68","8,96",Ratios_valoración
-Precio/VentasTTM,"2,89","2,44",Ratios_valoración
-Precio/Flujo de cajaMRQ,"35,11","-5,67",Ratios_valoración
-Precio/Flujo de caja libreTTM,"13,24","35,83",Ratios_valoración
-Precio/Valor ContableMRQ,"1,66","3,15",Ratios_valoración
-Precio/Valor Contable NetoMRQ,"2,03","1,93",Ratios_valoración
-Margen brutoTTM,"30,62%","30,29%",Rentabilidad
-Margen bruto5YA,"25,05%","25,76%",Rentabilidad
-Margen operativoTTM,"30,62%","25,39%",Rentabilidad
-Margen operativo5YA,"25,05%",22%,Rentabilidad
-Margen Antes de ImpuestosTTM,"29,72%","24,34%",Rentabilidad
-Margen Antes de Impuestos5YA,"23,15%","20,01%",Rentabilidad
-Margen de utilidad netoTTM,"23,96%","19,31%",Rentabilidad
-Margen de utilidad neto5YA,"18,54%","16,2%",Rentabilidad
-Beneficio/AcciónTTM,"258.348,64","183.385,7",Datos_por_acción
-BPA BásicoANN,"61.900,09","47.263,39",Datos_por_acción
-BPA DiluidoANN,"61.900,09","47.263,38",Datos_por_acción
-Ratio Bolsa/LibrosMRQ,"451.367,2","304.772,97",Datos_por_acción
-Valor Contable Neto/AcciónMRQ,"368.197,27","244.846,97",Datos_por_acción
-Efectivo/AcciónMRQ,"33.175,8","19.702,21",Datos_por_acción
-Flujo de caja/AcciónTTM,"21.278,13","22.941,13",Datos_por_acción
-Rentabilidad sobre fondos propiosTTM,"14,65%","19,15%",Eficacia_gestión
-Rentabilidad sobre la inversión5YA,"11,47%","14,45%",Eficacia_gestión
-Rentabilidad sobre los activosTTM,"6,39%","7,62%",Eficacia_gestión
-Rentabilidad sobre los activos5YA,"5,04%","6,07%",Eficacia_gestión
-Rentabilidad sobre la inversiónTTM,"9,56%","11,91%",Eficacia_gestión
-Rentabilidad sobre fondos propios5YA,"7,65%","9,97%",Eficacia_gestión
-BPA(MRQ) vs Trimestre 1 Año AtrásMRQ,"-47,42%","108,56%",Crecimiento
-BPA(TTM) vs TTM 1 Año AtrásTTM,"-6,79%","10,6%",Crecimiento
-Crecimiento del BPA en 5 Años5YA,"4,43%","67,85%",Crecimiento
-Ventas (MRQ) vs Trimestre 1 Año AtrásMRQ,"1,65%","0,31%",Crecimiento
-Ventas (TTM) vs TTM 1 Año AtrásTTM,"1,91%","5,53%",Crecimiento
-Crecimiento de las Ventas en 5 Años5YA,"7,84%","6,28%",Crecimiento
-Crecimiento del Consumo de Capital en 5 Años5YA,"3,5%","4,51%",Crecimiento
-Test ácidoMRQ,"5,06","1,69",Fuerza_financiera
-Ratio de solvenciaMRQ,"5,39","2,07",Fuerza_financiera
-Deuda a largo plazo/Total fondos propiosMRQ,"17,71%","54,47%",Fuerza_financiera
-Total deuda/Total fondos propiosMRQ,"20,07%","65,7%",Fuerza_financiera
-Rotación de ActivosTTM,"0,33","0,39",Eficiencia
-Rotación de InventariosTTM,"1,5","3,8",Eficiencia
-Ingresos /EmpleadoTTM,"0,95","14,11",Eficiencia
-Beneficio neto/EmpleadoTTM,"0,23","1,77",Eficiencia
-Rotación de Cuentas a CobrarTTM,"1,31","3,1",Eficiencia
-Rentabilidad por DividendoANN,-,"0,87%",Dividendo
-Promedio de Rendimiento del Dividendo en 5 Años5YA,0%,"0,76%",Dividendo
-Tasa de Crecimiento de los DividendosANN,-,"-0,13%",Dividendo
-Ratio PayoutTTM,-,"-62,24%",Dividendo
+﻿indicador,Empresa,Industria,seccion,company
+Ratio Precio/UtilidadTTM,"12,68","8,96",Ratios_valoración,berkshire-hathaway-inc
+Precio/VentasTTM,"2,89","2,44",Ratios_valoración,berkshire-hathaway-inc
+Precio/Flujo de cajaMRQ,"35,11","-5,67",Ratios_valoración,berkshire-hathaway-inc
+Precio/Flujo de caja libreTTM,"13,24","35,83",Ratios_valoración,berkshire-hathaway-inc
+Precio/Valor ContableMRQ,"1,66","3,15",Ratios_valoración,berkshire-hathaway-inc
+Precio/Valor Contable NetoMRQ,"2,03","1,93",Ratios_valoración,berkshire-hathaway-inc
+Margen brutoTTM,"30,62%","30,29%",Rentabilidad,berkshire-hathaway-inc
+Margen bruto5YA,"25,05%","25,76%",Rentabilidad,berkshire-hathaway-inc
+Margen operativoTTM,"30,62%","25,39%",Rentabilidad,berkshire-hathaway-inc
+Margen operativo5YA,"25,05%",22%,Rentabilidad,berkshire-hathaway-inc
+Margen Antes de ImpuestosTTM,"29,72%","24,34%",Rentabilidad,berkshire-hathaway-inc
+Margen Antes de Impuestos5YA,"23,15%","20,01%",Rentabilidad,berkshire-hathaway-inc
+Margen de utilidad netoTTM,"23,96%","19,31%",Rentabilidad,berkshire-hathaway-inc
+Margen de utilidad neto5YA,"18,54%","16,2%",Rentabilidad,berkshire-hathaway-inc
+Beneficio/AcciónTTM,"258.348,64","183.385,7",Datos_por_acción,berkshire-hathaway-inc
+BPA BásicoANN,"61.900,09","47.263,39",Datos_por_acción,berkshire-hathaway-inc
+BPA DiluidoANN,"61.900,09","47.263,38",Datos_por_acción,berkshire-hathaway-inc
+Ratio Bolsa/LibrosMRQ,"451.367,2","304.772,97",Datos_por_acción,berkshire-hathaway-inc
+Valor Contable Neto/AcciónMRQ,"368.197,27","244.846,97",Datos_por_acción,berkshire-hathaway-inc
+Efectivo/AcciónMRQ,"33.175,8","19.702,21",Datos_por_acción,berkshire-hathaway-inc
+Flujo de caja/AcciónTTM,"21.278,13","22.941,13",Datos_por_acción,berkshire-hathaway-inc
+Rentabilidad sobre fondos propiosTTM,"14,65%","19,15%",Eficacia_gestión,berkshire-hathaway-inc
+Rentabilidad sobre la inversión5YA,"11,47%","14,45%",Eficacia_gestión,berkshire-hathaway-inc
+Rentabilidad sobre los activosTTM,"6,39%","7,62%",Eficacia_gestión,berkshire-hathaway-inc
+Rentabilidad sobre los activos5YA,"5,04%","6,07%",Eficacia_gestión,berkshire-hathaway-inc
+Rentabilidad sobre la inversiónTTM,"9,56%","11,91%",Eficacia_gestión,berkshire-hathaway-inc
+Rentabilidad sobre fondos propios5YA,"7,65%","9,97%",Eficacia_gestión,berkshire-hathaway-inc
+BPA(MRQ) vs Trimestre 1 Año AtrásMRQ,"-47,42%","108,56%",Crecimiento,berkshire-hathaway-inc
+BPA(TTM) vs TTM 1 Año AtrásTTM,"-6,79%","10,6%",Crecimiento,berkshire-hathaway-inc
+Crecimiento del BPA en 5 Años5YA,"4,43%","67,85%",Crecimiento,berkshire-hathaway-inc
+Ventas (MRQ) vs Trimestre 1 Año AtrásMRQ,"1,65%","0,31%",Crecimiento,berkshire-hathaway-inc
+Ventas (TTM) vs TTM 1 Año AtrásTTM,"1,91%","5,53%",Crecimiento,berkshire-hathaway-inc
+Crecimiento de las Ventas en 5 Años5YA,"7,84%","6,28%",Crecimiento,berkshire-hathaway-inc
+Crecimiento del Consumo de Capital en 5 Años5YA,"3,5%","4,51%",Crecimiento,berkshire-hathaway-inc
+Test ácidoMRQ,"5,06","1,69",Fuerza_financiera,berkshire-hathaway-inc
+Ratio de solvenciaMRQ,"5,39","2,07",Fuerza_financiera,berkshire-hathaway-inc
+Deuda a largo plazo/Total fondos propiosMRQ,"17,71%","54,47%",Fuerza_financiera,berkshire-hathaway-inc
+Total deuda/Total fondos propiosMRQ,"20,07%","65,7%",Fuerza_financiera,berkshire-hathaway-inc
+Rotación de ActivosTTM,"0,33","0,39",Eficiencia,berkshire-hathaway-inc
+Rotación de InventariosTTM,"1,5","3,8",Eficiencia,berkshire-hathaway-inc
+Ingresos /EmpleadoTTM,"0,95","14,11",Eficiencia,berkshire-hathaway-inc
+Beneficio neto/EmpleadoTTM,"0,23","1,77",Eficiencia,berkshire-hathaway-inc
+Rotación de Cuentas a CobrarTTM,"1,31","3,1",Eficiencia,berkshire-hathaway-inc
+Rentabilidad por DividendoANN,-,"0,87%",Dividendo,berkshire-hathaway-inc
+Promedio de Rendimiento del Dividendo en 5 Años5YA,0%,"0,76%",Dividendo,berkshire-hathaway-inc
+Tasa de Crecimiento de los DividendosANN,-,"-0,13%",Dividendo,berkshire-hathaway-inc
+Ratio PayoutTTM,-,"-62,24%",Dividendo,berkshire-hathaway-inc

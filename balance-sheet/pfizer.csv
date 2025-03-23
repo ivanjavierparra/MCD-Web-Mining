@@ -1,60 +1,60 @@
-indicador,202031/12,202131/12,202231/12,202331/12,202431/12,seccion
-Efectivo y equivalentes,1.786,1.944,416,2.853,1.043,activo_corriente
-Crecimiento de efectivo y equivalentes,"+59,32%","+8,85%","-78,6%","+585,82%","-63,44%",activo_corriente
-Inversiones a corto plazo,10.437,29.125,22.316,9.837,19.434,activo_corriente
-Créditos totales,11.177,15.745,14.529,15.544,14.777,activo_corriente
-Total de cuentas por cobrar,7.913,11.479,10.952,11.566,11.463,activo_corriente
-Otros créditos,3.264,4.266,3.577,3.978,3.314,activo_corriente
-Inventario,8.020,9.059,8.981,10.189,10.851,activo_corriente
-Gastos pagados por adelantado,-,-,-,-,-,activo_corriente
-"División financiera, préstamos y arrendamientos corrientes",-,-,-,-,-,activo_corriente
-"División financiera, total de otros activos corrientes",-,-,-,-,-,activo_corriente
-Otros activos corrientes,3.629,3.816,5.017,4.910,4.253,activo_corriente
-Efectivo restringido,-,-,-,-,-,activo_corriente
-Total de otros activos corrientes,3.629,3.816,5.017,4.910,4.253,activo_corriente
-Crecimiento de activos totales,"-7,97%","+17,67%","+8,67%","+14,86%","-5,79%",activo_total
-"Planta, propiedad y equipo, neto",15.131,17.721,19.276,21.864,20.682,activo_total
-Inmovilizado material bruto,29.792,32.795,34.450,37.909,37.165,activo_total
-Amortización acumulada,-14.661,-15.074,-15.174,-16.045,-16.483,activo_total
-Inversiones a largo plazo,20.379,21.348,14.926,15.382,2.107,activo_total
-Activos intangibles,77.893,74.354,94.745,132.683,123.938,activo_total
-Fondo de comercio,49.556,49.208,51.375,67.783,68.527,activo_total
-"Otros intangibles, total",28.337,25.146,43.370,64.900,55.411,activo_total
-"División financiera, préstamos y arrendamientos a largo plazo",-,-,-,-,-,activo_total
-Total de otros activos,5.759,8.360,16.999,13.239,16.311,activo_total
-Préstamos por cobrar a largo plazo,-,-,-,-,-,activo_total
-Cuentas por cobrar a largo plazo,-,-,-,-,-,activo_total
-Activos por impuestos diferidos a largo plazo,900,1.600,4.800,1.800,6.600,activo_total
-Cargos diferidos a largo plazo,-,-,-,-,-,activo_total
-Total de otros activos a largo plazo,4.859,6.760,12.199,11.439,9.711,activo_total
-Total de cuentas por pagar,4.283,5.578,6.809,6.710,5.633,pasivo_corriente
-Total de gastos devengados,6.498,7.671,8.316,9.224,12.005,pasivo_corriente
-Préstamos a corto plazo,701,605,385,8.096,3.199,pasivo_corriente
-Parte actual de la deuda a largo plazo/arrendamientos,2.322,2.085,3.190,2.797,4.131,pasivo_corriente
-Parte actual de la deuda a largo plazo,2.002,1.636,2.570,2.270,3.775,pasivo_corriente
-Parte actual de arrendamientos,320,449,620,527,356,pasivo_corriente
-Total de otros pasivos corrientes,12.116,26.732,23.438,20.967,18.027,pasivo_corriente
-Impuestos corrientes sobre la renta a pagar,1.049,1.266,1.587,2.349,2.910,pasivo_corriente
-total de ingresos corrientes no devengados,2.070,3.067,2.520,2.700,1.511,pasivo_corriente
-Otros pasivos corrientes,8.997,22.399,19.331,15.918,13.606,pasivo_corriente
-Crecimiento del pasivo total,"-12,86%","+14,61%","-2,62%","+35,47%","-8,97%",pasivo_total
-Deuda a largo plazo,37.133,36.195,33.205,61.813,57.802,pasivo_total
-Arrendamientos a largo plazo,1.108,2.510,2.597,2.626,2.286,pasivo_total
-Total de otros pasivos,26.595,22.637,23.348,24.980,21.816,pasivo_total
-Ingresos no devengados no corrientes,-,-,-,-,-,pasivo_total
-Pensiones y otras prestaciones posteriores a la jubilación,5.411,3.724,2.250,2.167,2.115,pasivo_total
-Pasivos por impuestos no corrientes diferidos,4.063,349,1.023,640,2.122,pasivo_total
-Otros pasivos no corrientes,17.121,18.564,20.075,22.173,17.579,pasivo_total
-Total de acciones preferentes,-,-,-,-,-,patrimonio_neto
-Acciones preferentes reembolsables,-,-,-,-,-,patrimonio_neto
-Acciones preferentes no reembolsables,-,-,-,-,-,patrimonio_neto
-Acciones preferentes convertibles,-,-,-,-,-,patrimonio_neto
-Acciones ordinarias y APIC,89.144,91.064,92.278,93.109,94.083,patrimonio_neto
-Total de acciones ordinarias,470,473,476,478,480,patrimonio_neto
-Capital pagado adicional,88.674,90.591,91.802,92.631,93.603,patrimonio_neto
-Ganancias retenidas,90.392,103.394,125.656,118.353,116.725,patrimonio_neto
-Acciones propias y otras,-116.298,-117.257,-122.273,-122.448,-122.605,patrimonio_neto
-Acciones propias,-110.988,-111.361,-113.969,-114.487,-114.763,patrimonio_neto
-Ingresos globales y otros,-5.310,-5.896,-8.304,-7.961,-7.842,patrimonio_neto
-Intereses minoritarios,235,262,256,274,294,patrimonio_neto
-Crecimiento de la deuda total,"+4,77%","+0,56%","-4,41%","+72,44%","-4,49%",crecimiento_deuda
+﻿indicador,202031/12,202131/12,202231/12,202331/12,202431/12,seccion,company
+Efectivo y equivalentes,1.786,1.944,416,2.853,1.043,activo_corriente,pfizer
+Crecimiento de efectivo y equivalentes,"+59,32%","+8,85%","-78,6%","+585,82%","-63,44%",activo_corriente,pfizer
+Inversiones a corto plazo,10.437,29.125,22.316,9.837,19.434,activo_corriente,pfizer
+Créditos totales,11.177,15.745,14.529,15.544,14.777,activo_corriente,pfizer
+Total de cuentas por cobrar,7.913,11.479,10.952,11.566,11.463,activo_corriente,pfizer
+Otros créditos,3.264,4.266,3.577,3.978,3.314,activo_corriente,pfizer
+Inventario,8.020,9.059,8.981,10.189,10.851,activo_corriente,pfizer
+Gastos pagados por adelantado,-,-,-,-,-,activo_corriente,pfizer
+"División financiera, préstamos y arrendamientos corrientes",-,-,-,-,-,activo_corriente,pfizer
+"División financiera, total de otros activos corrientes",-,-,-,-,-,activo_corriente,pfizer
+Otros activos corrientes,3.629,3.816,5.017,4.910,4.253,activo_corriente,pfizer
+Efectivo restringido,-,-,-,-,-,activo_corriente,pfizer
+Total de otros activos corrientes,3.629,3.816,5.017,4.910,4.253,activo_corriente,pfizer
+Crecimiento de activos totales,"-7,97%","+17,67%","+8,67%","+14,86%","-5,79%",activo_total,pfizer
+"Planta, propiedad y equipo, neto",15.131,17.721,19.276,21.864,20.682,activo_total,pfizer
+Inmovilizado material bruto,29.792,32.795,34.450,37.909,37.165,activo_total,pfizer
+Amortización acumulada,-14.661,-15.074,-15.174,-16.045,-16.483,activo_total,pfizer
+Inversiones a largo plazo,20.379,21.348,14.926,15.382,2.107,activo_total,pfizer
+Activos intangibles,77.893,74.354,94.745,132.683,123.938,activo_total,pfizer
+Fondo de comercio,49.556,49.208,51.375,67.783,68.527,activo_total,pfizer
+"Otros intangibles, total",28.337,25.146,43.370,64.900,55.411,activo_total,pfizer
+"División financiera, préstamos y arrendamientos a largo plazo",-,-,-,-,-,activo_total,pfizer
+Total de otros activos,5.759,8.360,16.999,13.239,16.311,activo_total,pfizer
+Préstamos por cobrar a largo plazo,-,-,-,-,-,activo_total,pfizer
+Cuentas por cobrar a largo plazo,-,-,-,-,-,activo_total,pfizer
+Activos por impuestos diferidos a largo plazo,900,1.600,4.800,1.800,6.600,activo_total,pfizer
+Cargos diferidos a largo plazo,-,-,-,-,-,activo_total,pfizer
+Total de otros activos a largo plazo,4.859,6.760,12.199,11.439,9.711,activo_total,pfizer
+Total de cuentas por pagar,4.283,5.578,6.809,6.710,5.633,pasivo_corriente,pfizer
+Total de gastos devengados,6.498,7.671,8.316,9.224,12.005,pasivo_corriente,pfizer
+Préstamos a corto plazo,701,605,385,8.096,3.199,pasivo_corriente,pfizer
+Parte actual de la deuda a largo plazo/arrendamientos,2.322,2.085,3.190,2.797,4.131,pasivo_corriente,pfizer
+Parte actual de la deuda a largo plazo,2.002,1.636,2.570,2.270,3.775,pasivo_corriente,pfizer
+Parte actual de arrendamientos,320,449,620,527,356,pasivo_corriente,pfizer
+Total de otros pasivos corrientes,12.116,26.732,23.438,20.967,18.027,pasivo_corriente,pfizer
+Impuestos corrientes sobre la renta a pagar,1.049,1.266,1.587,2.349,2.910,pasivo_corriente,pfizer
+total de ingresos corrientes no devengados,2.070,3.067,2.520,2.700,1.511,pasivo_corriente,pfizer
+Otros pasivos corrientes,8.997,22.399,19.331,15.918,13.606,pasivo_corriente,pfizer
+Crecimiento del pasivo total,"-12,86%","+14,61%","-2,62%","+35,47%","-8,97%",pasivo_total,pfizer
+Deuda a largo plazo,37.133,36.195,33.205,61.813,57.802,pasivo_total,pfizer
+Arrendamientos a largo plazo,1.108,2.510,2.597,2.626,2.286,pasivo_total,pfizer
+Total de otros pasivos,26.595,22.637,23.348,24.980,21.816,pasivo_total,pfizer
+Ingresos no devengados no corrientes,-,-,-,-,-,pasivo_total,pfizer
+Pensiones y otras prestaciones posteriores a la jubilación,5.411,3.724,2.250,2.167,2.115,pasivo_total,pfizer
+Pasivos por impuestos no corrientes diferidos,4.063,349,1.023,640,2.122,pasivo_total,pfizer
+Otros pasivos no corrientes,17.121,18.564,20.075,22.173,17.579,pasivo_total,pfizer
+Total de acciones preferentes,-,-,-,-,-,patrimonio_neto,pfizer
+Acciones preferentes reembolsables,-,-,-,-,-,patrimonio_neto,pfizer
+Acciones preferentes no reembolsables,-,-,-,-,-,patrimonio_neto,pfizer
+Acciones preferentes convertibles,-,-,-,-,-,patrimonio_neto,pfizer
+Acciones ordinarias y APIC,89.144,91.064,92.278,93.109,94.083,patrimonio_neto,pfizer
+Total de acciones ordinarias,470,473,476,478,480,patrimonio_neto,pfizer
+Capital pagado adicional,88.674,90.591,91.802,92.631,93.603,patrimonio_neto,pfizer
+Ganancias retenidas,90.392,103.394,125.656,118.353,116.725,patrimonio_neto,pfizer
+Acciones propias y otras,-116.298,-117.257,-122.273,-122.448,-122.605,patrimonio_neto,pfizer
+Acciones propias,-110.988,-111.361,-113.969,-114.487,-114.763,patrimonio_neto,pfizer
+Ingresos globales y otros,-5.310,-5.896,-8.304,-7.961,-7.842,patrimonio_neto,pfizer
+Intereses minoritarios,235,262,256,274,294,patrimonio_neto,pfizer
+Crecimiento de la deuda total,"+4,77%","+0,56%","-4,41%","+72,44%","-4,49%",crecimiento_deuda,pfizer

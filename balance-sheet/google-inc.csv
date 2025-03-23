@@ -1,60 +1,60 @@
-indicador,202031/12,202131/12,202231/12,202331/12,202431/12,seccion
-Efectivo y equivalentes,26.465,20.945,21.879,24.048,23.466,activo_corriente
-Crecimiento de efectivo y equivalentes,"+43,07%","-20,86%","+4,46%","+9,91%","-2,42%",activo_corriente
-Inversiones a corto plazo,110.229,118.704,91.883,86.868,72.191,activo_corriente
-Créditos totales,31.384,39.304,40.258,47.964,52.340,activo_corriente
-Total de cuentas por cobrar,30.930,39.304,40.258,47.964,52.340,activo_corriente
-Otros créditos,454,-,-,-,-,activo_corriente
-Inventario,728,1.170,-,-,-,activo_corriente
-Gastos pagados por adelantado,-,-,-,-,-,activo_corriente
-"División financiera, préstamos y arrendamientos corrientes",-,-,-,-,-,activo_corriente
-"División financiera, total de otros activos corrientes",-,-,-,-,-,activo_corriente
-Otros activos corrientes,5.490,8.020,10.775,12.650,15.714,activo_corriente
-Efectivo restringido,-,-,-,-,-,activo_corriente
-Total de otros activos corrientes,5.490,8.020,10.775,12.650,15.714,activo_corriente
-Crecimiento de activos totales,"+15,84%","+12,41%","+1,67%","+10,16%","+11,89%",activo_no_corriente
-"Planta, propiedad y equipo, neto",96.960,110.558,127.049,148.436,184.624,activo_no_corriente
-Inmovilizado material bruto,138.673,159.972,186.091,215.894,264.014,activo_no_corriente
-Amortización acumulada,-41.713,-49.414,-59.042,-67.458,-79.390,activo_no_corriente
-Inversiones a largo plazo,20.703,29.549,30.492,31.929,40.882,activo_no_corriente
-Activos intangibles,22.620,24.373,28.960,29.198,31.885,activo_no_corriente
-Fondo de comercio,21.175,22.956,28.960,29.198,31.885,activo_no_corriente
-"Otros intangibles, total",1.445,1.417,-,-,-,activo_no_corriente
-"División financiera, préstamos y arrendamientos a largo plazo",-,-,-,-,-,activo_no_corriente
-Total de otros activos,5.037,6.645,13.968,21.299,29.154,activo_no_corriente
-Préstamos por cobrar a largo plazo,-,-,-,-,-,activo_no_corriente
-Cuentas por cobrar a largo plazo,-,-,-,-,-,activo_no_corriente
-Activos por impuestos diferidos a largo plazo,1.084,1.284,5.261,12.169,17.180,activo_no_corriente
-Cargos diferidos a largo plazo,-,-,-,-,-,activo_no_corriente
-Total de otros activos a largo plazo,3.953,5.361,8.707,9.130,11.974,activo_no_corriente
-Total de cuentas por pagar,5.589,6.037,5.128,7.493,7.987,pasivo_corriente
-Total de gastos devengados,20.445,27.912,31.743,36.142,41.541,pasivo_corriente
-Préstamos a corto plazo,-,-,-,-,-,pasivo_corriente
-Parte actual de la deuda a largo plazo/arrendamientos,2.794,2.302,2.775,4.074,4.121,pasivo_corriente
-Parte actual de la deuda a largo plazo,999,-,-,1.000,999,pasivo_corriente
-Parte actual de arrendamientos,1.795,2.302,2.775,3.074,3.122,pasivo_corriente
-Total de otros pasivos corrientes,28.006,28.003,29.654,34.105,35.473,pasivo_corriente
-Impuestos corrientes sobre la renta a pagar,1.485,-,1.632,2.748,2.905,pasivo_corriente
-total de ingresos corrientes no devengados,2.543,3.288,3.908,4.137,5.036,pasivo_corriente
-Otros pasivos corrientes,23.978,24.715,24.114,27.220,27.532,pasivo_corriente
-Crecimiento del pasivo total,"+30,36%","+10,88%","+1,38%","+9,07%","+5,18%",pasivo_no_corriente
-Deuda a largo plazo,12.832,12.844,12.857,11.870,10.883,pasivo_no_corriente
-Arrendamientos a largo plazo,12.246,13.362,14.345,13.843,13.133,pasivo_no_corriente
-Total de otros pasivos,15.160,17.173,12.618,11.486,12.034,pasivo_no_corriente
-Ingresos no devengados no corrientes,481,535,599,-,-,pasivo_no_corriente
-Pensiones y otras prestaciones posteriores a la jubilación,-,-,-,-,-,pasivo_no_corriente
-Pasivos por impuestos no corrientes diferidos,3.561,5.257,514,-,-,pasivo_no_corriente
-Otros pasivos no corrientes,11.118,11.381,11.505,11.486,12.034,pasivo_no_corriente
-Total de acciones preferentes,-,-,-,-,-,patrimonio_neto
-Acciones preferentes reembolsables,-,-,-,-,-,patrimonio_neto
-Acciones preferentes no reembolsables,-,-,-,-,-,patrimonio_neto
-Acciones preferentes convertibles,-,-,-,-,-,patrimonio_neto
-Acciones ordinarias y APIC,58.510,61.774,68.184,76.534,84.800,patrimonio_neto
-Total de acciones ordinarias,58.510,61.774,68.184,76.534,84.800,patrimonio_neto
-Capital pagado adicional,-,-,-,-,-,patrimonio_neto
-Ganancias retenidas,163.401,191.484,195.563,211.247,245.084,patrimonio_neto
-Acciones propias y otras,633,-1.623,-7.603,-4.402,-4.800,patrimonio_neto
-Acciones propias,-,-,-,-,-,patrimonio_neto
-Ingresos globales y otros,633,-1.623,-7.603,-4.402,-4.800,patrimonio_neto
-Intereses minoritarios,-,-,-,-,-,patrimonio_neto
-Crecimiento de la deuda total,"+73,31%","+2,28%","+5,15%","-0,63%","-5,54%",crecimiento_deuda
+﻿indicador,202031/12,202131/12,202231/12,202331/12,202431/12,seccion,company
+Efectivo y equivalentes,26.465,20.945,21.879,24.048,23.466,activo_corriente,google-inc
+Crecimiento de efectivo y equivalentes,"+43,07%","-20,86%","+4,46%","+9,91%","-2,42%",activo_corriente,google-inc
+Inversiones a corto plazo,110.229,118.704,91.883,86.868,72.191,activo_corriente,google-inc
+Créditos totales,31.384,39.304,40.258,47.964,52.340,activo_corriente,google-inc
+Total de cuentas por cobrar,30.930,39.304,40.258,47.964,52.340,activo_corriente,google-inc
+Otros créditos,454,-,-,-,-,activo_corriente,google-inc
+Inventario,728,1.170,-,-,-,activo_corriente,google-inc
+Gastos pagados por adelantado,-,-,-,-,-,activo_corriente,google-inc
+"División financiera, préstamos y arrendamientos corrientes",-,-,-,-,-,activo_corriente,google-inc
+"División financiera, total de otros activos corrientes",-,-,-,-,-,activo_corriente,google-inc
+Otros activos corrientes,5.490,8.020,10.775,12.650,15.714,activo_corriente,google-inc
+Efectivo restringido,-,-,-,-,-,activo_corriente,google-inc
+Total de otros activos corrientes,5.490,8.020,10.775,12.650,15.714,activo_corriente,google-inc
+Crecimiento de activos totales,"+15,84%","+12,41%","+1,67%","+10,16%","+11,89%",activo_total,google-inc
+"Planta, propiedad y equipo, neto",96.960,110.558,127.049,148.436,184.624,activo_total,google-inc
+Inmovilizado material bruto,138.673,159.972,186.091,215.894,264.014,activo_total,google-inc
+Amortización acumulada,-41.713,-49.414,-59.042,-67.458,-79.390,activo_total,google-inc
+Inversiones a largo plazo,20.703,29.549,30.492,31.929,40.882,activo_total,google-inc
+Activos intangibles,22.620,24.373,28.960,29.198,31.885,activo_total,google-inc
+Fondo de comercio,21.175,22.956,28.960,29.198,31.885,activo_total,google-inc
+"Otros intangibles, total",1.445,1.417,-,-,-,activo_total,google-inc
+"División financiera, préstamos y arrendamientos a largo plazo",-,-,-,-,-,activo_total,google-inc
+Total de otros activos,5.037,6.645,13.968,21.299,29.154,activo_total,google-inc
+Préstamos por cobrar a largo plazo,-,-,-,-,-,activo_total,google-inc
+Cuentas por cobrar a largo plazo,-,-,-,-,-,activo_total,google-inc
+Activos por impuestos diferidos a largo plazo,1.084,1.284,5.261,12.169,17.180,activo_total,google-inc
+Cargos diferidos a largo plazo,-,-,-,-,-,activo_total,google-inc
+Total de otros activos a largo plazo,3.953,5.361,8.707,9.130,11.974,activo_total,google-inc
+Total de cuentas por pagar,5.589,6.037,5.128,7.493,7.987,pasivo_corriente,google-inc
+Total de gastos devengados,20.445,27.912,31.743,36.142,41.541,pasivo_corriente,google-inc
+Préstamos a corto plazo,-,-,-,-,-,pasivo_corriente,google-inc
+Parte actual de la deuda a largo plazo/arrendamientos,2.794,2.302,2.775,4.074,4.121,pasivo_corriente,google-inc
+Parte actual de la deuda a largo plazo,999,-,-,1.000,999,pasivo_corriente,google-inc
+Parte actual de arrendamientos,1.795,2.302,2.775,3.074,3.122,pasivo_corriente,google-inc
+Total de otros pasivos corrientes,28.006,28.003,29.654,34.105,35.473,pasivo_corriente,google-inc
+Impuestos corrientes sobre la renta a pagar,1.485,-,1.632,2.748,2.905,pasivo_corriente,google-inc
+total de ingresos corrientes no devengados,2.543,3.288,3.908,4.137,5.036,pasivo_corriente,google-inc
+Otros pasivos corrientes,23.978,24.715,24.114,27.220,27.532,pasivo_corriente,google-inc
+Crecimiento del pasivo total,"+30,36%","+10,88%","+1,38%","+9,07%","+5,18%",pasivo_total,google-inc
+Deuda a largo plazo,12.832,12.844,12.857,11.870,10.883,pasivo_total,google-inc
+Arrendamientos a largo plazo,12.246,13.362,14.345,13.843,13.133,pasivo_total,google-inc
+Total de otros pasivos,15.160,17.173,12.618,11.486,12.034,pasivo_total,google-inc
+Ingresos no devengados no corrientes,481,535,599,-,-,pasivo_total,google-inc
+Pensiones y otras prestaciones posteriores a la jubilación,-,-,-,-,-,pasivo_total,google-inc
+Pasivos por impuestos no corrientes diferidos,3.561,5.257,514,-,-,pasivo_total,google-inc
+Otros pasivos no corrientes,11.118,11.381,11.505,11.486,12.034,pasivo_total,google-inc
+Total de acciones preferentes,-,-,-,-,-,patrimonio_neto,google-inc
+Acciones preferentes reembolsables,-,-,-,-,-,patrimonio_neto,google-inc
+Acciones preferentes no reembolsables,-,-,-,-,-,patrimonio_neto,google-inc
+Acciones preferentes convertibles,-,-,-,-,-,patrimonio_neto,google-inc
+Acciones ordinarias y APIC,58.510,61.774,68.184,76.534,84.800,patrimonio_neto,google-inc
+Total de acciones ordinarias,58.510,61.774,68.184,76.534,84.800,patrimonio_neto,google-inc
+Capital pagado adicional,-,-,-,-,-,patrimonio_neto,google-inc
+Ganancias retenidas,163.401,191.484,195.563,211.247,245.084,patrimonio_neto,google-inc
+Acciones propias y otras,633,-1.623,-7.603,-4.402,-4.800,patrimonio_neto,google-inc
+Acciones propias,-,-,-,-,-,patrimonio_neto,google-inc
+Ingresos globales y otros,633,-1.623,-7.603,-4.402,-4.800,patrimonio_neto,google-inc
+Intereses minoritarios,-,-,-,-,-,patrimonio_neto,google-inc
+Crecimiento de la deuda total,"+73,31%","+2,28%","+5,15%","-0,63%","-5,54%",crecimiento_deuda,google-inc

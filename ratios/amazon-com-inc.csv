@@ -1,48 +1,48 @@
-﻿indicador,Empresa,Industria,seccion
-Ratio Precio/UtilidadTTM,"34,54","38,31",Ratios_valoración
-Precio/VentasTTM,"3,8","3,03",Ratios_valoración
-Precio/Flujo de cajaMRQ,"20,91","20,65",Ratios_valoración
-Precio/Flujo de caja libreTTM,"54,29","64,4",Ratios_valoración
-Precio/Valor ContableMRQ,"8,47","9,12",Ratios_valoración
-Precio/Valor Contable NetoMRQ,"9,53","10,25",Ratios_valoración
-Margen brutoTTM,"48,85%","40,45%",Rentabilidad
-Margen bruto5YA,"44,25%","36,69%",Rentabilidad
-Margen operativoTTM,"10,75%","9,19%",Rentabilidad
-Margen operativo5YA,"6,2%","5,52%",Rentabilidad
-Margen Antes de ImpuestosTTM,"10,74%","9,12%",Rentabilidad
-Margen Antes de Impuestos5YA,"6,1%","5,3%",Rentabilidad
-Margen de utilidad netoTTM,"9,29%","7,73%",Rentabilidad
-Margen de utilidad neto5YA,"5,34%","4,43%",Rentabilidad
-Beneficio/AcciónTTM,"60,91","167,91",Datos_por_acción
-BPA BásicoANN,"5,66","7,98",Datos_por_acción
-BPA DiluidoANN,"5,53","7,88",Datos_por_acción
-Ratio Bolsa/LibrosMRQ,27,"38,62",Datos_por_acción
-Valor Contable Neto/AcciónMRQ,"24,01","33,62",Datos_por_acción
-Efectivo/AcciónMRQ,"7,44","12,9",Datos_por_acción
-Flujo de caja/AcciónTTM,"10,81","14,28",Datos_por_acción
-Rentabilidad sobre fondos propiosTTM,"24,29%","26,27%",Eficacia_gestión
-Rentabilidad sobre la inversión5YA,"19,22%","21,37%",Eficacia_gestión
-Rentabilidad sobre los activosTTM,"7,44%","10,07%",Eficacia_gestión
-Rentabilidad sobre los activos5YA,"4,68%","6,78%",Eficacia_gestión
-Rentabilidad sobre la inversiónTTM,"10,65%","15,35%",Eficacia_gestión
-Rentabilidad sobre fondos propios5YA,"7,05%","11,02%",Eficacia_gestión
-BPA(MRQ) vs Trimestre 1 Año AtrásMRQ,"84,59%","62,38%",Crecimiento
-BPA(TTM) vs TTM 1 Año AtrásTTM,"90,69%","70,4%",Crecimiento
-Crecimiento del BPA en 5 Años5YA,"36,89%","28,14%",Crecimiento
-Ventas (MRQ) vs Trimestre 1 Año AtrásMRQ,"10,49%","9,29%",Crecimiento
-Ventas (TTM) vs TTM 1 Año AtrásTTM,"10,99%","9,55%",Crecimiento
-Crecimiento de las Ventas en 5 Años5YA,"17,86%","15,96%",Crecimiento
-Crecimiento del Consumo de Capital en 5 Años5YA,"37,54%","29,22%",Crecimiento
-Test ácidoMRQ,"0,84","0,71",Fuerza_financiera
-Ratio de solvenciaMRQ,"1,06","1,08",Fuerza_financiera
-Deuda a largo plazo/Total fondos propiosMRQ,"20,88%","24,81%",Fuerza_financiera
-Total deuda/Total fondos propiosMRQ,"54,34%","60,59%",Fuerza_financiera
-Rotación de ActivosTTM,"1,11","1,52",Eficiencia
-Rotación de InventariosTTM,"9,66","9,7",Eficiencia
-Ingresos /EmpleadoTTM,"0,41","1,78",Eficiencia
-Beneficio neto/EmpleadoTTM,"0,04","0,12",Eficiencia
-Rotación de Cuentas a CobrarTTM,"14,42","51,33",Eficiencia
-Rentabilidad por DividendoANN,-,"0,4%",Dividendo
-Promedio de Rendimiento del Dividendo en 5 Años5YA,0%,"0,46%",Dividendo
-Tasa de Crecimiento de los DividendosANN,-,"4,47%",Dividendo
-Ratio PayoutTTM,-,"9,47%",Dividendo
+﻿indicador,Empresa,Industria,seccion,company
+Ratio Precio/UtilidadTTM,"34,54","38,31",Ratios_valoración,amazon-com-inc
+Precio/VentasTTM,"3,8","3,03",Ratios_valoración,amazon-com-inc
+Precio/Flujo de cajaMRQ,"20,91","20,65",Ratios_valoración,amazon-com-inc
+Precio/Flujo de caja libreTTM,"54,29","64,4",Ratios_valoración,amazon-com-inc
+Precio/Valor ContableMRQ,"8,47","9,12",Ratios_valoración,amazon-com-inc
+Precio/Valor Contable NetoMRQ,"9,53","10,25",Ratios_valoración,amazon-com-inc
+Margen brutoTTM,"48,85%","40,45%",Rentabilidad,amazon-com-inc
+Margen bruto5YA,"44,25%","36,69%",Rentabilidad,amazon-com-inc
+Margen operativoTTM,"10,75%","9,19%",Rentabilidad,amazon-com-inc
+Margen operativo5YA,"6,2%","5,52%",Rentabilidad,amazon-com-inc
+Margen Antes de ImpuestosTTM,"10,74%","9,12%",Rentabilidad,amazon-com-inc
+Margen Antes de Impuestos5YA,"6,1%","5,3%",Rentabilidad,amazon-com-inc
+Margen de utilidad netoTTM,"9,29%","7,73%",Rentabilidad,amazon-com-inc
+Margen de utilidad neto5YA,"5,34%","4,43%",Rentabilidad,amazon-com-inc
+Beneficio/AcciónTTM,"60,91","167,91",Datos_por_acción,amazon-com-inc
+BPA BásicoANN,"5,66","7,98",Datos_por_acción,amazon-com-inc
+BPA DiluidoANN,"5,53","7,88",Datos_por_acción,amazon-com-inc
+Ratio Bolsa/LibrosMRQ,27,"38,62",Datos_por_acción,amazon-com-inc
+Valor Contable Neto/AcciónMRQ,"24,01","33,62",Datos_por_acción,amazon-com-inc
+Efectivo/AcciónMRQ,"7,44","12,9",Datos_por_acción,amazon-com-inc
+Flujo de caja/AcciónTTM,"10,81","14,28",Datos_por_acción,amazon-com-inc
+Rentabilidad sobre fondos propiosTTM,"24,29%","26,27%",Eficacia_gestión,amazon-com-inc
+Rentabilidad sobre la inversión5YA,"19,22%","21,37%",Eficacia_gestión,amazon-com-inc
+Rentabilidad sobre los activosTTM,"7,44%","10,07%",Eficacia_gestión,amazon-com-inc
+Rentabilidad sobre los activos5YA,"4,68%","6,78%",Eficacia_gestión,amazon-com-inc
+Rentabilidad sobre la inversiónTTM,"10,65%","15,35%",Eficacia_gestión,amazon-com-inc
+Rentabilidad sobre fondos propios5YA,"7,05%","11,02%",Eficacia_gestión,amazon-com-inc
+BPA(MRQ) vs Trimestre 1 Año AtrásMRQ,"84,59%","62,38%",Crecimiento,amazon-com-inc
+BPA(TTM) vs TTM 1 Año AtrásTTM,"90,69%","70,4%",Crecimiento,amazon-com-inc
+Crecimiento del BPA en 5 Años5YA,"36,89%","28,14%",Crecimiento,amazon-com-inc
+Ventas (MRQ) vs Trimestre 1 Año AtrásMRQ,"10,49%","9,29%",Crecimiento,amazon-com-inc
+Ventas (TTM) vs TTM 1 Año AtrásTTM,"10,99%","9,55%",Crecimiento,amazon-com-inc
+Crecimiento de las Ventas en 5 Años5YA,"17,86%","15,96%",Crecimiento,amazon-com-inc
+Crecimiento del Consumo de Capital en 5 Años5YA,"37,54%","29,22%",Crecimiento,amazon-com-inc
+Test ácidoMRQ,"0,84","0,71",Fuerza_financiera,amazon-com-inc
+Ratio de solvenciaMRQ,"1,06","1,08",Fuerza_financiera,amazon-com-inc
+Deuda a largo plazo/Total fondos propiosMRQ,"20,88%","24,81%",Fuerza_financiera,amazon-com-inc
+Total deuda/Total fondos propiosMRQ,"54,34%","60,59%",Fuerza_financiera,amazon-com-inc
+Rotación de ActivosTTM,"1,11","1,52",Eficiencia,amazon-com-inc
+Rotación de InventariosTTM,"9,66","9,7",Eficiencia,amazon-com-inc
+Ingresos /EmpleadoTTM,"0,41","1,78",Eficiencia,amazon-com-inc
+Beneficio neto/EmpleadoTTM,"0,04","0,12",Eficiencia,amazon-com-inc
+Rotación de Cuentas a CobrarTTM,"14,42","51,33",Eficiencia,amazon-com-inc
+Rentabilidad por DividendoANN,-,"0,4%",Dividendo,amazon-com-inc
+Promedio de Rendimiento del Dividendo en 5 Años5YA,0%,"0,46%",Dividendo,amazon-com-inc
+Tasa de Crecimiento de los DividendosANN,-,"4,47%",Dividendo,amazon-com-inc
+Ratio PayoutTTM,-,"9,47%",Dividendo,amazon-com-inc

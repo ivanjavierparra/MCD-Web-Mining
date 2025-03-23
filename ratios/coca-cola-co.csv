@@ -1,48 +1,48 @@
-﻿indicador,Empresa,Industria,seccion
-Ratio Precio/UtilidadTTM,"27,64","24,6",Ratios_valoración
-Precio/VentasTTM,"6,32","3,37",Ratios_valoración
-Precio/Flujo de cajaMRQ,"43,71","22,49",Ratios_valoración
-Precio/Flujo de caja libreTTM,"19,88","28,7",Ratios_valoración
-Precio/Valor ContableMRQ,"11,97","6,13",Ratios_valoración
-Precio/Valor Contable NetoMRQ,"-45,19","-13,41",Ratios_valoración
-Margen brutoTTM,"61,06%","52,38%",Rentabilidad
-Margen bruto5YA,"59,66%","52,04%",Rentabilidad
-Margen operativoTTM,"30,39%","21,91%",Rentabilidad
-Margen operativo5YA,"29,58%","21,77%",Rentabilidad
-Margen Antes de ImpuestosTTM,"27,81%","19,06%",Rentabilidad
-Margen Antes de Impuestos5YA,"28,99%","18,49%",Rentabilidad
-Margen de utilidad netoTTM,"22,59%","13,7%",Rentabilidad
-Margen de utilidad neto5YA,"23,39%","14,42%",Rentabilidad
-Beneficio/AcciónTTM,"10,92","192,15",Datos_por_acción
-BPA BásicoANN,"2,47","8,04",Datos_por_acción
-BPA DiluidoANN,"2,46","8,03",Datos_por_acción
-Ratio Bolsa/LibrosMRQ,"5,78","110,24",Datos_por_acción
-Valor Contable Neto/AcciónMRQ,"-1,53","22,48",Datos_por_acción
-Efectivo/AcciónMRQ,"2,52","21,08",Datos_por_acción
-Flujo de caja/AcciónTTM,"1,58","23,08",Datos_por_acción
-Rentabilidad sobre fondos propiosTTM,"39,55%","27,72%",Eficacia_gestión
-Rentabilidad sobre la inversión5YA,"39,32%","102,11%",Eficacia_gestión
-Rentabilidad sobre los activosTTM,"9,02%","7,25%",Eficacia_gestión
-Rentabilidad sobre los activos5YA,"8,2%","7,57%",Eficacia_gestión
-Rentabilidad sobre la inversiónTTM,"12,32%","12,73%",Eficacia_gestión
-Rentabilidad sobre fondos propios5YA,"11,1%","12,1%",Eficacia_gestión
-BPA(MRQ) vs Trimestre 1 Año AtrásMRQ,"11,54%","-2,79%",Crecimiento
-BPA(TTM) vs TTM 1 Año AtrásTTM,"-0,4%","47,19%",Crecimiento
-Crecimiento del BPA en 5 Años5YA,"3,51%","4,71%",Crecimiento
-Ventas (MRQ) vs Trimestre 1 Año AtrásMRQ,"6,41%","2,04%",Crecimiento
-Ventas (TTM) vs TTM 1 Año AtrásTTM,"2,86%","2,02%",Crecimiento
-Crecimiento de las Ventas en 5 Años5YA,"4,78%","6,43%",Crecimiento
-Crecimiento del Consumo de Capital en 5 Años5YA,"0,1%","7,25%",Crecimiento
-Test ácidoMRQ,"0,72","0,71",Fuerza_financiera
-Ratio de solvenciaMRQ,"1,03","1,14",Fuerza_financiera
-Deuda a largo plazo/Total fondos propiosMRQ,"164,18%","118,04%",Fuerza_financiera
-Total deuda/Total fondos propiosMRQ,"176,92%","121,69%",Fuerza_financiera
-Rotación de ActivosTTM,"0,47","0,55",Eficiencia
-Rotación de InventariosTTM,4,"5,48",Eficiencia
-Ingresos /EmpleadoTTM,"0,68","2,4",Eficiencia
-Beneficio neto/EmpleadoTTM,"0,15","0,18",Eficiencia
-Rotación de Cuentas a CobrarTTM,"13,49","18,48",Eficiencia
-Rentabilidad por DividendoANN,"2,81%","2,64%",Dividendo
-Promedio de Rendimiento del Dividendo en 5 Años5YA,"2,61%","2,66%",Dividendo
-Tasa de Crecimiento de los DividendosANN,"5,43%","32,63%",Dividendo
-Ratio PayoutTTM,"78,63%","64,77%",Dividendo
+﻿indicador,Empresa,Industria,seccion,company
+Ratio Precio/UtilidadTTM,"27,64","24,6",Ratios_valoración,coca-cola-co
+Precio/VentasTTM,"6,32","3,37",Ratios_valoración,coca-cola-co
+Precio/Flujo de cajaMRQ,"43,71","22,49",Ratios_valoración,coca-cola-co
+Precio/Flujo de caja libreTTM,"19,88","28,7",Ratios_valoración,coca-cola-co
+Precio/Valor ContableMRQ,"11,97","6,13",Ratios_valoración,coca-cola-co
+Precio/Valor Contable NetoMRQ,"-45,19","-13,41",Ratios_valoración,coca-cola-co
+Margen brutoTTM,"61,06%","52,38%",Rentabilidad,coca-cola-co
+Margen bruto5YA,"59,66%","52,04%",Rentabilidad,coca-cola-co
+Margen operativoTTM,"30,39%","21,91%",Rentabilidad,coca-cola-co
+Margen operativo5YA,"29,58%","21,77%",Rentabilidad,coca-cola-co
+Margen Antes de ImpuestosTTM,"27,81%","19,06%",Rentabilidad,coca-cola-co
+Margen Antes de Impuestos5YA,"28,99%","18,49%",Rentabilidad,coca-cola-co
+Margen de utilidad netoTTM,"22,59%","13,7%",Rentabilidad,coca-cola-co
+Margen de utilidad neto5YA,"23,39%","14,42%",Rentabilidad,coca-cola-co
+Beneficio/AcciónTTM,"10,92","192,15",Datos_por_acción,coca-cola-co
+BPA BásicoANN,"2,47","8,04",Datos_por_acción,coca-cola-co
+BPA DiluidoANN,"2,46","8,03",Datos_por_acción,coca-cola-co
+Ratio Bolsa/LibrosMRQ,"5,78","110,24",Datos_por_acción,coca-cola-co
+Valor Contable Neto/AcciónMRQ,"-1,53","22,48",Datos_por_acción,coca-cola-co
+Efectivo/AcciónMRQ,"2,52","21,08",Datos_por_acción,coca-cola-co
+Flujo de caja/AcciónTTM,"1,58","23,08",Datos_por_acción,coca-cola-co
+Rentabilidad sobre fondos propiosTTM,"39,55%","27,72%",Eficacia_gestión,coca-cola-co
+Rentabilidad sobre la inversión5YA,"39,32%","102,11%",Eficacia_gestión,coca-cola-co
+Rentabilidad sobre los activosTTM,"9,02%","7,25%",Eficacia_gestión,coca-cola-co
+Rentabilidad sobre los activos5YA,"8,2%","7,57%",Eficacia_gestión,coca-cola-co
+Rentabilidad sobre la inversiónTTM,"12,32%","12,73%",Eficacia_gestión,coca-cola-co
+Rentabilidad sobre fondos propios5YA,"11,1%","12,1%",Eficacia_gestión,coca-cola-co
+BPA(MRQ) vs Trimestre 1 Año AtrásMRQ,"11,54%","-2,79%",Crecimiento,coca-cola-co
+BPA(TTM) vs TTM 1 Año AtrásTTM,"-0,4%","47,19%",Crecimiento,coca-cola-co
+Crecimiento del BPA en 5 Años5YA,"3,51%","4,71%",Crecimiento,coca-cola-co
+Ventas (MRQ) vs Trimestre 1 Año AtrásMRQ,"6,41%","2,04%",Crecimiento,coca-cola-co
+Ventas (TTM) vs TTM 1 Año AtrásTTM,"2,86%","2,02%",Crecimiento,coca-cola-co
+Crecimiento de las Ventas en 5 Años5YA,"4,78%","6,43%",Crecimiento,coca-cola-co
+Crecimiento del Consumo de Capital en 5 Años5YA,"0,1%","7,25%",Crecimiento,coca-cola-co
+Test ácidoMRQ,"0,72","0,71",Fuerza_financiera,coca-cola-co
+Ratio de solvenciaMRQ,"1,03","1,14",Fuerza_financiera,coca-cola-co
+Deuda a largo plazo/Total fondos propiosMRQ,"164,18%","118,04%",Fuerza_financiera,coca-cola-co
+Total deuda/Total fondos propiosMRQ,"176,92%","121,69%",Fuerza_financiera,coca-cola-co
+Rotación de ActivosTTM,"0,47","0,55",Eficiencia,coca-cola-co
+Rotación de InventariosTTM,4,"5,48",Eficiencia,coca-cola-co
+Ingresos /EmpleadoTTM,"0,68","2,4",Eficiencia,coca-cola-co
+Beneficio neto/EmpleadoTTM,"0,15","0,18",Eficiencia,coca-cola-co
+Rotación de Cuentas a CobrarTTM,"13,49","18,48",Eficiencia,coca-cola-co
+Rentabilidad por DividendoANN,"2,81%","2,64%",Dividendo,coca-cola-co
+Promedio de Rendimiento del Dividendo en 5 Años5YA,"2,61%","2,66%",Dividendo,coca-cola-co
+Tasa de Crecimiento de los DividendosANN,"5,43%","32,63%",Dividendo,coca-cola-co
+Ratio PayoutTTM,"78,63%","64,77%",Dividendo,coca-cola-co

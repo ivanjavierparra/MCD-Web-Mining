@@ -1,60 +1,60 @@
-indicador,202031/12,202131/12,202231/12,202331/12,202431/12,seccion
-Efectivo y equivalentes,42.122,36.220,53.888,73.387,78.779,activo_corriente
-Crecimiento de efectivo y equivalentes,"+16,71%","-14,01%","+48,78%","+36,18%","+7,35%",activo_corriente
-Inversiones a corto plazo,42.274,59.829,16.138,13.393,22.423,activo_corriente
-Créditos totales,24.309,32.649,37.502,46.356,48.904,activo_corriente
-Total de cuentas por cobrar,19.600,25.500,36.202,42.600,45.900,activo_corriente
-Otros créditos,4.709,7.149,1.300,3.756,3.004,activo_corriente
-Inventario,23.795,32.640,34.405,33.318,34.214,activo_corriente
-Gastos pagados por adelantado,-,-,4.500,5.400,6.300,activo_corriente
-"División financiera, préstamos y arrendamientos corrientes",-,-,-,-,-,activo_corriente
-"División financiera, total de otros activos corrientes",-,-,-,-,-,activo_corriente
-Otros activos corrientes,233,242,358,497,247,activo_corriente
-Efectivo restringido,233,242,358,497,247,activo_corriente
-Total de otros activos corrientes,-,-,-,-,-,activo_corriente
-Crecimiento de activos totales,"+42,6%","+30,93%","+10,02%","+14,09%","+18,38%",activo_total
-"Planta, propiedad y equipo, neto",150.667,216.363,252.838,276.690,328.806,activo_total
-Inmovilizado material bruto,211.101,294.882,349.853,396.801,470.196,activo_total
-Amortización acumulada,-60.434,-78.519,-97.015,-120.111,-141.390,activo_total
-Inversiones a largo plazo,5.700,4.003,2.815,3.568,4.889,activo_total
-Activos intangibles,19.998,20.478,26.385,30.476,31.676,activo_total
-Fondo de comercio,15.017,15.371,20.288,22.789,23.074,activo_total
-"Otros intangibles, total",4.981,5.107,6.097,7.687,8.602,activo_total
-"División financiera, préstamos y arrendamientos a largo plazo",-,-,-,-,-,activo_total
-Total de otros activos,12.097,18.125,33.846,44.769,68.656,activo_total
-Préstamos por cobrar a largo plazo,-,-,-,-,-,activo_total
-Cuentas por cobrar a largo plazo,-,-,-,-,-,activo_total
-Activos por impuestos diferidos a largo plazo,-,-,-,-,-,activo_total
-Cargos diferidos a largo plazo,-,-,-,-,-,activo_total
-Total de otros activos a largo plazo,12.097,18.125,33.846,44.769,68.656,activo_total
-Total de cuentas por pagar,72.539,78.664,79.600,84.981,94.363,pasivo_corriente
-Total de gastos devengados,21.628,28.413,32.746,38.646,42.764,pasivo_corriente
-Préstamos a corto plazo,725,1.043,8.000,147,151,pasivo_corriente
-Parte actual de la deuda a largo plazo/arrendamientos,16.226,16.119,15.120,19.216,17.250,pasivo_corriente
-Parte actual de la deuda a largo plazo,1.266,1.687,3.265,8.765,5.329,pasivo_corriente
-Parte actual de arrendamientos,14.960,14.432,11.855,10.451,11.921,pasivo_corriente
-Total de otros pasivos corrientes,15.267,18.027,19.927,21.927,24.903,pasivo_corriente
-Impuestos corrientes sobre la renta a pagar,-,-,-,-,-,pasivo_corriente
-total de ingresos corrientes no devengados,14.408,17.027,18.627,20.527,23.503,pasivo_corriente
-Otros pasivos corrientes,859,1.000,1.300,1.400,1.400,pasivo_corriente
-Crecimiento del pasivo total,"+39,59%","+23,93%","+12,16%","+2,95%","+3,97%",pasivo_total
-Deuda a largo plazo,35.216,54.944,73.850,64.914,59.723,pasivo_total
-Arrendamientos a largo plazo,52.573,67.651,72.968,77.297,78.277,pasivo_total
-Total de otros pasivos,13.617,17.443,14.421,18.851,21.493,pasivo_total
-Ingresos no devengados no corrientes,1.900,2.200,2.900,5.700,6.500,pasivo_total
-Pensiones y otras prestaciones posteriores a la jubilación,-,-,-,-,-,pasivo_total
-Pasivos por impuestos no corrientes diferidos,-,-,-,-,-,pasivo_total
-Otros pasivos no corrientes,11.717,15.243,11.521,13.151,14.993,pasivo_total
-Total de acciones preferentes,-,-,-,-,-,patrimonio_neto
-Acciones preferentes reembolsables,-,-,-,-,-,patrimonio_neto
-Acciones preferentes no reembolsables,-,-,-,-,-,patrimonio_neto
-Acciones preferentes convertibles,-,-,-,-,-,patrimonio_neto
-Acciones ordinarias y APIC,42.870,55.543,75.174,99.134,120.975,patrimonio_neto
-Total de acciones ordinarias,5,106,108,109,111,patrimonio_neto
-Capital pagado adicional,42.865,55.437,75.066,99.025,120.864,patrimonio_neto
-Ganancias retenidas,52.551,85.915,83.193,113.618,172.866,patrimonio_neto
-Acciones propias y otras,-2.017,-3.213,-12.324,-10.877,-7.871,patrimonio_neto
-Acciones propias,-1.837,-1.837,-7.837,-7.837,-7.837,patrimonio_neto
-Ingresos globales y otros,-180,-1.376,-4.487,-3.040,-34,patrimonio_neto
-Intereses minoritarios,-,-,-,-,-,patrimonio_neto
-Crecimiento de la deuda total,"+34,16%","+33,36%","+16,74%","-0,32%","-3,83%",crecimiento_deuda
+﻿indicador,202031/12,202131/12,202231/12,202331/12,202431/12,seccion,company
+Efectivo y equivalentes,42.122,36.220,53.888,73.387,78.779,activo_corriente,amazon-com-inc
+Crecimiento de efectivo y equivalentes,"+16,71%","-14,01%","+48,78%","+36,18%","+7,35%",activo_corriente,amazon-com-inc
+Inversiones a corto plazo,42.274,59.829,16.138,13.393,22.423,activo_corriente,amazon-com-inc
+Créditos totales,24.309,32.649,37.502,46.356,48.904,activo_corriente,amazon-com-inc
+Total de cuentas por cobrar,19.600,25.500,36.202,42.600,45.900,activo_corriente,amazon-com-inc
+Otros créditos,4.709,7.149,1.300,3.756,3.004,activo_corriente,amazon-com-inc
+Inventario,23.795,32.640,34.405,33.318,34.214,activo_corriente,amazon-com-inc
+Gastos pagados por adelantado,-,-,4.500,5.400,6.300,activo_corriente,amazon-com-inc
+"División financiera, préstamos y arrendamientos corrientes",-,-,-,-,-,activo_corriente,amazon-com-inc
+"División financiera, total de otros activos corrientes",-,-,-,-,-,activo_corriente,amazon-com-inc
+Otros activos corrientes,233,242,358,497,247,activo_corriente,amazon-com-inc
+Efectivo restringido,233,242,358,497,247,activo_corriente,amazon-com-inc
+Total de otros activos corrientes,-,-,-,-,-,activo_corriente,amazon-com-inc
+Crecimiento de activos totales,"+42,6%","+30,93%","+10,02%","+14,09%","+18,38%",activo_total,amazon-com-inc
+"Planta, propiedad y equipo, neto",150.667,216.363,252.838,276.690,328.806,activo_total,amazon-com-inc
+Inmovilizado material bruto,211.101,294.882,349.853,396.801,470.196,activo_total,amazon-com-inc
+Amortización acumulada,-60.434,-78.519,-97.015,-120.111,-141.390,activo_total,amazon-com-inc
+Inversiones a largo plazo,5.700,4.003,2.815,3.568,4.889,activo_total,amazon-com-inc
+Activos intangibles,19.998,20.478,26.385,30.476,31.676,activo_total,amazon-com-inc
+Fondo de comercio,15.017,15.371,20.288,22.789,23.074,activo_total,amazon-com-inc
+"Otros intangibles, total",4.981,5.107,6.097,7.687,8.602,activo_total,amazon-com-inc
+"División financiera, préstamos y arrendamientos a largo plazo",-,-,-,-,-,activo_total,amazon-com-inc
+Total de otros activos,12.097,18.125,33.846,44.769,68.656,activo_total,amazon-com-inc
+Préstamos por cobrar a largo plazo,-,-,-,-,-,activo_total,amazon-com-inc
+Cuentas por cobrar a largo plazo,-,-,-,-,-,activo_total,amazon-com-inc
+Activos por impuestos diferidos a largo plazo,-,-,-,-,-,activo_total,amazon-com-inc
+Cargos diferidos a largo plazo,-,-,-,-,-,activo_total,amazon-com-inc
+Total de otros activos a largo plazo,12.097,18.125,33.846,44.769,68.656,activo_total,amazon-com-inc
+Total de cuentas por pagar,72.539,78.664,79.600,84.981,94.363,pasivo_corriente,amazon-com-inc
+Total de gastos devengados,21.628,28.413,32.746,38.646,42.764,pasivo_corriente,amazon-com-inc
+Préstamos a corto plazo,725,1.043,8.000,147,151,pasivo_corriente,amazon-com-inc
+Parte actual de la deuda a largo plazo/arrendamientos,16.226,16.119,15.120,19.216,17.250,pasivo_corriente,amazon-com-inc
+Parte actual de la deuda a largo plazo,1.266,1.687,3.265,8.765,5.329,pasivo_corriente,amazon-com-inc
+Parte actual de arrendamientos,14.960,14.432,11.855,10.451,11.921,pasivo_corriente,amazon-com-inc
+Total de otros pasivos corrientes,15.267,18.027,19.927,21.927,24.903,pasivo_corriente,amazon-com-inc
+Impuestos corrientes sobre la renta a pagar,-,-,-,-,-,pasivo_corriente,amazon-com-inc
+total de ingresos corrientes no devengados,14.408,17.027,18.627,20.527,23.503,pasivo_corriente,amazon-com-inc
+Otros pasivos corrientes,859,1.000,1.300,1.400,1.400,pasivo_corriente,amazon-com-inc
+Crecimiento del pasivo total,"+39,59%","+23,93%","+12,16%","+2,95%","+3,97%",pasivo_total,amazon-com-inc
+Deuda a largo plazo,35.216,54.944,73.850,64.914,59.723,pasivo_total,amazon-com-inc
+Arrendamientos a largo plazo,52.573,67.651,72.968,77.297,78.277,pasivo_total,amazon-com-inc
+Total de otros pasivos,13.617,17.443,14.421,18.851,21.493,pasivo_total,amazon-com-inc
+Ingresos no devengados no corrientes,1.900,2.200,2.900,5.700,6.500,pasivo_total,amazon-com-inc
+Pensiones y otras prestaciones posteriores a la jubilación,-,-,-,-,-,pasivo_total,amazon-com-inc
+Pasivos por impuestos no corrientes diferidos,-,-,-,-,-,pasivo_total,amazon-com-inc
+Otros pasivos no corrientes,11.717,15.243,11.521,13.151,14.993,pasivo_total,amazon-com-inc
+Total de acciones preferentes,-,-,-,-,-,patrimonio_neto,amazon-com-inc
+Acciones preferentes reembolsables,-,-,-,-,-,patrimonio_neto,amazon-com-inc
+Acciones preferentes no reembolsables,-,-,-,-,-,patrimonio_neto,amazon-com-inc
+Acciones preferentes convertibles,-,-,-,-,-,patrimonio_neto,amazon-com-inc
+Acciones ordinarias y APIC,42.870,55.543,75.174,99.134,120.975,patrimonio_neto,amazon-com-inc
+Total de acciones ordinarias,5,106,108,109,111,patrimonio_neto,amazon-com-inc
+Capital pagado adicional,42.865,55.437,75.066,99.025,120.864,patrimonio_neto,amazon-com-inc
+Ganancias retenidas,52.551,85.915,83.193,113.618,172.866,patrimonio_neto,amazon-com-inc
+Acciones propias y otras,-2.017,-3.213,-12.324,-10.877,-7.871,patrimonio_neto,amazon-com-inc
+Acciones propias,-1.837,-1.837,-7.837,-7.837,-7.837,patrimonio_neto,amazon-com-inc
+Ingresos globales y otros,-180,-1.376,-4.487,-3.040,-34,patrimonio_neto,amazon-com-inc
+Intereses minoritarios,-,-,-,-,-,patrimonio_neto,amazon-com-inc
+Crecimiento de la deuda total,"+34,16%","+33,36%","+16,74%","-0,32%","-3,83%",crecimiento_deuda,amazon-com-inc

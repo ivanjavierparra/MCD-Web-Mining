@@ -1,48 +1,48 @@
-﻿indicador,Empresa,Industria,seccion
-Ratio Precio/UtilidadTTM,"18,41","26,87",Ratios_valoración
-Precio/VentasTTM,"2,29","6,9",Ratios_valoración
-Precio/Flujo de cajaMRQ,"11,43","106,47",Ratios_valoración
-Precio/Flujo de caja libreTTM,"11,4","91,67",Ratios_valoración
-Precio/Valor ContableMRQ,"1,65","-54,31",Ratios_valoración
-Precio/Valor Contable NetoMRQ,"-4,08","-48,51",Ratios_valoración
-Margen brutoTTM,"74,19%","69,25%",Rentabilidad
-Margen bruto5YA,"68,47%","51,36%",Rentabilidad
-Margen operativoTTM,"25,66%","20,87%",Rentabilidad
-Margen operativo5YA,"26,47%","-14,61%",Rentabilidad
-Margen Antes de ImpuestosTTM,"12,61%","22,18%",Rentabilidad
-Margen Antes de Impuestos5YA,"19,1%","-19,79%",Rentabilidad
-Margen de utilidad netoTTM,"12,62%","20,19%",Rentabilidad
-Margen de utilidad neto5YA,"19,24%","-21,3%",Rentabilidad
-Beneficio/AcciónTTM,"11,23","180,09",Datos_por_acción
-BPA BásicoANN,"1,42","15,83",Datos_por_acción
-BPA DiluidoANN,"1,41","15,78",Datos_por_acción
-Ratio Bolsa/LibrosMRQ,"15,56","177,86",Datos_por_acción
-Valor Contable Neto/AcciónMRQ,"-6,31","25,05",Datos_por_acción
-Efectivo/AcciónMRQ,"0,18","32,81",Datos_por_acción
-Flujo de caja/AcciónTTM,"2,24","26,27",Datos_por_acción
-Rentabilidad sobre fondos propiosTTM,"9,06%","32,82%",Eficacia_gestión
-Rentabilidad sobre la inversión5YA,18%,"31,98%",Eficacia_gestión
-Rentabilidad sobre los activosTTM,"4,64%","9,45%",Eficacia_gestión
-Rentabilidad sobre los activos5YA,"6,7%","9,53%",Eficacia_gestión
-Rentabilidad sobre la inversiónTTM,"6,37%","21,02%",Eficacia_gestión
-Rentabilidad sobre fondos propios5YA,"9,84%","19,88%",Eficacia_gestión
-BPA(MRQ) vs Trimestre 1 Año AtrásMRQ,"-111,75%","47,2%",Crecimiento
-BPA(TTM) vs TTM 1 Año AtrásTTM,"281,08%","40,82%",Crecimiento
-Crecimiento del BPA en 5 Años5YA,"-5,66%","3,79%",Crecimiento
-Ventas (MRQ) vs Trimestre 1 Año AtrásMRQ,"21,92%","16,83%",Crecimiento
-Ventas (TTM) vs TTM 1 Año AtrásTTM,"6,84%","17,1%",Crecimiento
-Crecimiento de las Ventas en 5 Años5YA,"9,24%","9,46%",Crecimiento
-Crecimiento del Consumo de Capital en 5 Años5YA,"7,29%","3,72%",Crecimiento
-Test ácidoMRQ,"0,82","0,91",Fuerza_financiera
-Ratio de solvenciaMRQ,"1,17","1,17",Fuerza_financiera
-Deuda a largo plazo/Total fondos propiosMRQ,"65,32%","167,97%",Fuerza_financiera
-Total deuda/Total fondos propiosMRQ,"76,18%","-361,97%",Fuerza_financiera
-Rotación de ActivosTTM,"0,29","0,48",Eficiencia
-Rotación de InventariosTTM,"1,56","2,33",Eficiencia
-Ingresos /EmpleadoTTM,"0,79","9,18",Eficiencia
-Beneficio neto/EmpleadoTTM,"0,1","1,4",Eficiencia
-Rotación de Cuentas a CobrarTTM,"5,53","4,1",Eficiencia
-Rentabilidad por DividendoANN,"6,53%","1,78%",Dividendo
-Promedio de Rendimiento del Dividendo en 5 Años5YA,"6,3%","2,74%",Dividendo
-Tasa de Crecimiento de los DividendosANN,"2,44%","14,44%",Dividendo
-Ratio PayoutTTM,"118,44%","44,1%",Dividendo
+﻿indicador,Empresa,Industria,seccion,company
+Ratio Precio/UtilidadTTM,"18,41","26,87",Ratios_valoración,pfizer
+Precio/VentasTTM,"2,29","6,9",Ratios_valoración,pfizer
+Precio/Flujo de cajaMRQ,"11,43","106,47",Ratios_valoración,pfizer
+Precio/Flujo de caja libreTTM,"11,4","91,67",Ratios_valoración,pfizer
+Precio/Valor ContableMRQ,"1,65","-54,31",Ratios_valoración,pfizer
+Precio/Valor Contable NetoMRQ,"-4,08","-48,51",Ratios_valoración,pfizer
+Margen brutoTTM,"74,19%","69,25%",Rentabilidad,pfizer
+Margen bruto5YA,"68,47%","51,36%",Rentabilidad,pfizer
+Margen operativoTTM,"25,66%","20,87%",Rentabilidad,pfizer
+Margen operativo5YA,"26,47%","-14,61%",Rentabilidad,pfizer
+Margen Antes de ImpuestosTTM,"12,61%","22,18%",Rentabilidad,pfizer
+Margen Antes de Impuestos5YA,"19,1%","-19,79%",Rentabilidad,pfizer
+Margen de utilidad netoTTM,"12,62%","20,19%",Rentabilidad,pfizer
+Margen de utilidad neto5YA,"19,24%","-21,3%",Rentabilidad,pfizer
+Beneficio/AcciónTTM,"11,23","180,09",Datos_por_acción,pfizer
+BPA BásicoANN,"1,42","15,83",Datos_por_acción,pfizer
+BPA DiluidoANN,"1,41","15,78",Datos_por_acción,pfizer
+Ratio Bolsa/LibrosMRQ,"15,56","177,86",Datos_por_acción,pfizer
+Valor Contable Neto/AcciónMRQ,"-6,31","25,05",Datos_por_acción,pfizer
+Efectivo/AcciónMRQ,"0,18","32,81",Datos_por_acción,pfizer
+Flujo de caja/AcciónTTM,"2,24","26,27",Datos_por_acción,pfizer
+Rentabilidad sobre fondos propiosTTM,"9,06%","32,82%",Eficacia_gestión,pfizer
+Rentabilidad sobre la inversión5YA,18%,"31,98%",Eficacia_gestión,pfizer
+Rentabilidad sobre los activosTTM,"4,64%","9,45%",Eficacia_gestión,pfizer
+Rentabilidad sobre los activos5YA,"6,7%","9,53%",Eficacia_gestión,pfizer
+Rentabilidad sobre la inversiónTTM,"6,37%","21,02%",Eficacia_gestión,pfizer
+Rentabilidad sobre fondos propios5YA,"9,84%","19,88%",Eficacia_gestión,pfizer
+BPA(MRQ) vs Trimestre 1 Año AtrásMRQ,"-111,75%","47,2%",Crecimiento,pfizer
+BPA(TTM) vs TTM 1 Año AtrásTTM,"281,08%","40,82%",Crecimiento,pfizer
+Crecimiento del BPA en 5 Años5YA,"-5,66%","3,79%",Crecimiento,pfizer
+Ventas (MRQ) vs Trimestre 1 Año AtrásMRQ,"21,92%","16,83%",Crecimiento,pfizer
+Ventas (TTM) vs TTM 1 Año AtrásTTM,"6,84%","17,1%",Crecimiento,pfizer
+Crecimiento de las Ventas en 5 Años5YA,"9,24%","9,46%",Crecimiento,pfizer
+Crecimiento del Consumo de Capital en 5 Años5YA,"7,29%","3,72%",Crecimiento,pfizer
+Test ácidoMRQ,"0,82","0,91",Fuerza_financiera,pfizer
+Ratio de solvenciaMRQ,"1,17","1,17",Fuerza_financiera,pfizer
+Deuda a largo plazo/Total fondos propiosMRQ,"65,32%","167,97%",Fuerza_financiera,pfizer
+Total deuda/Total fondos propiosMRQ,"76,18%","-361,97%",Fuerza_financiera,pfizer
+Rotación de ActivosTTM,"0,29","0,48",Eficiencia,pfizer
+Rotación de InventariosTTM,"1,56","2,33",Eficiencia,pfizer
+Ingresos /EmpleadoTTM,"0,79","9,18",Eficiencia,pfizer
+Beneficio neto/EmpleadoTTM,"0,1","1,4",Eficiencia,pfizer
+Rotación de Cuentas a CobrarTTM,"5,53","4,1",Eficiencia,pfizer
+Rentabilidad por DividendoANN,"6,53%","1,78%",Dividendo,pfizer
+Promedio de Rendimiento del Dividendo en 5 Años5YA,"6,3%","2,74%",Dividendo,pfizer
+Tasa de Crecimiento de los DividendosANN,"2,44%","14,44%",Dividendo,pfizer
+Ratio PayoutTTM,"118,44%","44,1%",Dividendo,pfizer

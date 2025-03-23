@@ -1,48 +1,48 @@
-﻿indicador,Empresa,Industria,seccion
-Ratio Precio/UtilidadTTM,"34,08","35,27",Ratios_valoración
-Precio/VentasTTM,"8,83","7,99",Ratios_valoración
-Precio/Flujo de cajaMRQ,"32,27","27,13",Ratios_valoración
-Precio/Flujo de caja libreTTM,"37,24","34,22",Ratios_valoración
-Precio/Valor ContableMRQ,"52,41","45,14",Ratios_valoración
-Precio/Valor Contable NetoMRQ,"52,41","45,37",Ratios_valoración
-Margen brutoTTM,"46,52%","43,08%",Rentabilidad
-Margen bruto5YA,"42,73%","39,62%",Rentabilidad
-Margen operativoTTM,"31,76%","27,36%",Rentabilidad
-Margen operativo5YA,"29,11%","24,64%",Rentabilidad
-Margen Antes de ImpuestosTTM,"31,77%","27,26%",Rentabilidad
-Margen Antes de Impuestos5YA,"29,15%","23,45%",Rentabilidad
-Margen de utilidad netoTTM,"24,3%","20,78%",Rentabilidad
-Margen de utilidad neto5YA,"24,28%","19,47%",Rentabilidad
-Beneficio/AcciónTTM,"25,97","412,22",Datos_por_acción
-BPA BásicoANN,"6,11","32,14",Datos_por_acción
-BPA DiluidoANN,"6,08","32,03",Datos_por_acción
-Ratio Bolsa/LibrosMRQ,"4,44","233,87",Datos_por_acción
-Valor Contable Neto/AcciónMRQ,"4,44","108,52",Datos_por_acción
-Efectivo/AcciónMRQ,"2,01","32,83",Datos_por_acción
-Flujo de caja/AcciónTTM,"7,08","47,51",Datos_por_acción
-Rentabilidad sobre fondos propiosTTM,"136,52%","115,55%",Eficacia_gestión
-Rentabilidad sobre la inversión5YA,"145,19%","118,02%",Eficacia_gestión
-Rentabilidad sobre los activosTTM,"22,52%","23,68%",Eficacia_gestión
-Rentabilidad sobre los activos5YA,"19,12%","22,21%",Eficacia_gestión
-Rentabilidad sobre la inversiónTTM,"45,44%","51,38%",Eficacia_gestión
-Rentabilidad sobre fondos propios5YA,"35,37%","40,55%",Eficacia_gestión
-BPA(MRQ) vs Trimestre 1 Año AtrásMRQ,"10,09%","21,83%",Crecimiento
-BPA(TTM) vs TTM 1 Año AtrásTTM,"-2,17%","63,25%",Crecimiento
-Crecimiento del BPA en 5 Años5YA,"15,41%","13,46%",Crecimiento
-Ventas (MRQ) vs Trimestre 1 Año AtrásMRQ,"3,95%","6,88%",Crecimiento
-Ventas (TTM) vs TTM 1 Año AtrásTTM,"2,61%","4,29%",Crecimiento
-Crecimiento de las Ventas en 5 Años5YA,"8,49%","8,17%",Crecimiento
-Crecimiento del Consumo de Capital en 5 Años5YA,"-2,08%","-0,33%",Crecimiento
-Test ácidoMRQ,"0,78","0,59",Fuerza_financiera
-Ratio de solvenciaMRQ,"0,92","0,97",Fuerza_financiera
-Deuda a largo plazo/Total fondos propiosMRQ,"125,76%","108,17%",Fuerza_financiera
-Total deuda/Total fondos propiosMRQ,145%,"100,3%",Fuerza_financiera
-Rotación de ActivosTTM,"1,13","1,09",Eficiencia
-Rotación de InventariosTTM,"31,54","27,18",Eficiencia
-Ingresos /EmpleadoTTM,"2,41","9,56",Eficiencia
-Beneficio neto/EmpleadoTTM,"0,59","1,08",Eficiencia
-Rotación de Cuentas a CobrarTTM,"14,98","14,99",Eficiencia
-Rentabilidad por DividendoANN,"0,42%","0,51%",Dividendo
-Promedio de Rendimiento del Dividendo en 5 Años5YA,"0,39%","0,75%",Dividendo
-Tasa de Crecimiento de los DividendosANN,"4,17%","3,77%",Dividendo
-Ratio PayoutTTM,"15,88%","16,56%",Dividendo
+﻿indicador,Empresa,Industria,seccion,company
+Ratio Precio/UtilidadTTM,"34,08","35,27",Ratios_valoración,apple-computer-inc
+Precio/VentasTTM,"8,83","7,99",Ratios_valoración,apple-computer-inc
+Precio/Flujo de cajaMRQ,"32,27","27,13",Ratios_valoración,apple-computer-inc
+Precio/Flujo de caja libreTTM,"37,24","34,22",Ratios_valoración,apple-computer-inc
+Precio/Valor ContableMRQ,"52,41","45,14",Ratios_valoración,apple-computer-inc
+Precio/Valor Contable NetoMRQ,"52,41","45,37",Ratios_valoración,apple-computer-inc
+Margen brutoTTM,"46,52%","43,08%",Rentabilidad,apple-computer-inc
+Margen bruto5YA,"42,73%","39,62%",Rentabilidad,apple-computer-inc
+Margen operativoTTM,"31,76%","27,36%",Rentabilidad,apple-computer-inc
+Margen operativo5YA,"29,11%","24,64%",Rentabilidad,apple-computer-inc
+Margen Antes de ImpuestosTTM,"31,77%","27,26%",Rentabilidad,apple-computer-inc
+Margen Antes de Impuestos5YA,"29,15%","23,45%",Rentabilidad,apple-computer-inc
+Margen de utilidad netoTTM,"24,3%","20,78%",Rentabilidad,apple-computer-inc
+Margen de utilidad neto5YA,"24,28%","19,47%",Rentabilidad,apple-computer-inc
+Beneficio/AcciónTTM,"25,97","412,22",Datos_por_acción,apple-computer-inc
+BPA BásicoANN,"6,11","32,14",Datos_por_acción,apple-computer-inc
+BPA DiluidoANN,"6,08","32,03",Datos_por_acción,apple-computer-inc
+Ratio Bolsa/LibrosMRQ,"4,44","233,87",Datos_por_acción,apple-computer-inc
+Valor Contable Neto/AcciónMRQ,"4,44","108,52",Datos_por_acción,apple-computer-inc
+Efectivo/AcciónMRQ,"2,01","32,83",Datos_por_acción,apple-computer-inc
+Flujo de caja/AcciónTTM,"7,08","47,51",Datos_por_acción,apple-computer-inc
+Rentabilidad sobre fondos propiosTTM,"136,52%","115,55%",Eficacia_gestión,apple-computer-inc
+Rentabilidad sobre la inversión5YA,"145,19%","118,02%",Eficacia_gestión,apple-computer-inc
+Rentabilidad sobre los activosTTM,"22,52%","23,68%",Eficacia_gestión,apple-computer-inc
+Rentabilidad sobre los activos5YA,"19,12%","22,21%",Eficacia_gestión,apple-computer-inc
+Rentabilidad sobre la inversiónTTM,"45,44%","51,38%",Eficacia_gestión,apple-computer-inc
+Rentabilidad sobre fondos propios5YA,"35,37%","40,55%",Eficacia_gestión,apple-computer-inc
+BPA(MRQ) vs Trimestre 1 Año AtrásMRQ,"10,09%","21,83%",Crecimiento,apple-computer-inc
+BPA(TTM) vs TTM 1 Año AtrásTTM,"-2,17%","63,25%",Crecimiento,apple-computer-inc
+Crecimiento del BPA en 5 Años5YA,"15,41%","13,46%",Crecimiento,apple-computer-inc
+Ventas (MRQ) vs Trimestre 1 Año AtrásMRQ,"3,95%","6,88%",Crecimiento,apple-computer-inc
+Ventas (TTM) vs TTM 1 Año AtrásTTM,"2,61%","4,29%",Crecimiento,apple-computer-inc
+Crecimiento de las Ventas en 5 Años5YA,"8,49%","8,17%",Crecimiento,apple-computer-inc
+Crecimiento del Consumo de Capital en 5 Años5YA,"-2,08%","-0,33%",Crecimiento,apple-computer-inc
+Test ácidoMRQ,"0,78","0,59",Fuerza_financiera,apple-computer-inc
+Ratio de solvenciaMRQ,"0,92","0,97",Fuerza_financiera,apple-computer-inc
+Deuda a largo plazo/Total fondos propiosMRQ,"125,76%","108,17%",Fuerza_financiera,apple-computer-inc
+Total deuda/Total fondos propiosMRQ,145%,"100,3%",Fuerza_financiera,apple-computer-inc
+Rotación de ActivosTTM,"1,13","1,09",Eficiencia,apple-computer-inc
+Rotación de InventariosTTM,"31,54","27,18",Eficiencia,apple-computer-inc
+Ingresos /EmpleadoTTM,"2,41","9,56",Eficiencia,apple-computer-inc
+Beneficio neto/EmpleadoTTM,"0,59","1,08",Eficiencia,apple-computer-inc
+Rotación de Cuentas a CobrarTTM,"14,98","14,99",Eficiencia,apple-computer-inc
+Rentabilidad por DividendoANN,"0,42%","0,51%",Dividendo,apple-computer-inc
+Promedio de Rendimiento del Dividendo en 5 Años5YA,"0,39%","0,75%",Dividendo,apple-computer-inc
+Tasa de Crecimiento de los DividendosANN,"4,17%","3,77%",Dividendo,apple-computer-inc
+Ratio PayoutTTM,"15,88%","16,56%",Dividendo,apple-computer-inc

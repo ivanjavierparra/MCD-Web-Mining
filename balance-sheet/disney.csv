@@ -1,0 +1,60 @@
+indicador,202003/10,202102/10,202201/10,202330/09,202428/09,seccion
+Efectivo y equivalentes,17.914,15.959,11.615,14.182,6.002,activo_corriente
+Crecimiento de efectivo y equivalentes,"+230,64%","-10,91%","-27,22%","+22,1%","-57,68%",activo_corriente
+Inversiones a corto plazo,-,-,-,-,-,activo_corriente
+Créditos totales,12.708,13.367,12.652,12.330,12.729,activo_corriente
+Total de cuentas por cobrar,10.873,11.007,10.653,10.064,10.258,activo_corriente
+Otros créditos,1.835,2.360,1.999,2.266,2.471,activo_corriente
+Inventario,3.754,3.514,3.632,4.965,4.119,activo_corriente
+Gastos pagados por adelantado,-,-,-,-,-,activo_corriente
+"División financiera, préstamos y arrendamientos corrientes",-,-,-,-,-,activo_corriente
+"División financiera, total de otros activos corrientes",-,-,-,-,-,activo_corriente
+Otros activos corrientes,875,817,1.199,1.286,2.391,activo_corriente
+Efectivo restringido,3,3,3,-,-,activo_corriente
+Total de otros activos corrientes,872,814,1.196,1.286,2.391,activo_corriente
+Crecimiento de activos totales,"+3,9%","+1,02%","+0,01%","+0,96%","-4,55%",activo_total
+"Planta, propiedad y equipo, neto",36.126,36.855,37.865,39.443,40.663,activo_total
+Inmovilizado material bruto,71.680,74.775,77.221,82.053,86.169,activo_total
+Amortización acumulada,-35.554,-37.920,-39.356,-42.610,-45.506,activo_total
+Inversiones a largo plazo,3.903,3.935,3.218,3.080,4.459,activo_total
+Activos intangibles,96.862,95.186,92.734,90.128,84.065,activo_total
+Fondo de comercio,77.689,78.071,77.897,77.067,73.326,activo_total
+"Otros intangibles, total",19.173,17.115,14.837,13.061,10.739,activo_total
+"División financiera, préstamos y arrendamientos a largo plazo",-,-,-,-,-,activo_total
+Total de otros activos,29.407,33.976,40.716,40.165,41.791,activo_total
+Préstamos por cobrar a largo plazo,-,-,-,-,-,activo_total
+Cuentas por cobrar a largo plazo,-,800,600,1.300,1.000,activo_total
+Activos por impuestos diferidos a largo plazo,-,-,-,-,-,activo_total
+Cargos diferidos a largo plazo,-,-,-,-,-,activo_total
+Total de otros activos a largo plazo,29.407,33.176,40.116,38.865,40.791,activo_total
+Total de cuentas por pagar,12.399,15.679,15.490,14.348,14.022,pasivo_corriente
+Total de gastos devengados,2.925,3.482,3.447,3.061,3.672,pasivo_corriente
+Préstamos a corto plazo,2.023,1.992,1.662,1.476,3.040,pasivo_corriente
+Parte actual de la deuda a largo plazo/arrendamientos,4.472,4.552,2.059,3.631,4.579,pasivo_corriente
+Parte actual de la deuda a largo plazo,3.688,3.874,1.408,2.854,3.805,pasivo_corriente
+Parte actual de arrendamientos,784,678,651,777,774,pasivo_corriente
+Total de otros pasivos corrientes,4.809,5.372,6.415,8.623,9.286,pasivo_corriente
+Impuestos corrientes sobre la renta a pagar,-,-,378,2.276,2.473,pasivo_corriente
+total de ingresos corrientes no devengados,3.688,4.067,5.531,5.568,5.587,pasivo_corriente
+Otros pasivos corrientes,1.121,1.305,506,779,1.226,pasivo_corriente
+Crecimiento del pasivo total,"+14,16%","-2,55%","-6,05%","-2,82%","-2,02%",pasivo_total
+Deuda a largo plazo,52.917,48.540,45.299,42.101,38.970,pasivo_total
+Arrendamientos a largo plazo,2.911,3.229,3.239,3.464,2.928,pasivo_total
+Total de otros pasivos,21.581,18.539,17.642,15.863,14.200,pasivo_total
+Ingresos no devengados no corrientes,513,581,927,977,858,pasivo_total
+Pensiones y otras prestaciones posteriores a la jubilación,6.451,4.132,-,-,-,pasivo_total
+Pasivos por impuestos no corrientes diferidos,7.288,7.246,8.363,7.258,6.277,pasivo_total
+Otros pasivos no corrientes,7.329,6.580,8.352,7.628,7.065,pasivo_total
+Total de acciones preferentes,-,-,-,-,-,patrimonio_neto
+Acciones preferentes reembolsables,-,-,-,-,-,patrimonio_neto
+Acciones preferentes no reembolsables,-,-,-,-,-,patrimonio_neto
+Acciones preferentes convertibles,-,-,-,-,-,patrimonio_neto
+Acciones ordinarias y APIC,54.497,55.471,56.398,57.383,58.592,patrimonio_neto
+Total de acciones ordinarias,54.497,55.471,56.398,57.383,58.592,patrimonio_neto
+Capital pagado adicional,-,-,-,-,-,patrimonio_neto
+Ganancias retenidas,38.315,40.429,43.636,46.093,49.722,patrimonio_neto
+Acciones propias y otras,-9.229,-7.347,-5.026,-4.199,-7.618,patrimonio_neto
+Acciones propias,-907,-907,-907,-907,-3.919,patrimonio_neto
+Ingresos globales y otros,-8.322,-6.440,-4.119,-3.292,-3.699,patrimonio_neto
+Intereses minoritarios,13.929,13.671,13.370,13.735,4.826,patrimonio_neto
+Crecimiento de la deuda total,"+44,28%","-6,6%","-10,16%","-2,77%","-5,53%",crecimiento_deuda

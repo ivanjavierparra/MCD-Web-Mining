@@ -1,0 +1,48 @@
+﻿indicador,Empresa,Industria,seccion
+Ratio Precio/UtilidadTTM,"31,95","29,9",Ratios_valoración
+Precio/VentasTTM,"18,32","12,26",Ratios_valoración
+Precio/Flujo de cajaMRQ,"31,03","20,19",Ratios_valoración
+Precio/Flujo de caja libreTTM,"48,53","62,27",Ratios_valoración
+Precio/Valor ContableMRQ,"18,05","13,77",Ratios_valoración
+Precio/Valor Contable NetoMRQ,"-83,87","21,9",Ratios_valoración
+Margen brutoTTM,"97,82%","65,28%",Rentabilidad
+Margen bruto5YA,"97,34%","60,24%",Rentabilidad
+Margen operativoTTM,"66,59%","23,36%",Rentabilidad
+Margen operativo5YA,"66,23%","2,02%",Rentabilidad
+Margen Antes de ImpuestosTTM,"65,41%","21,3%",Rentabilidad
+Margen Antes de Impuestos5YA,"64,53%","-3,76%",Rentabilidad
+Margen de utilidad netoTTM,"54,27%","16,89%",Rentabilidad
+Margen de utilidad neto5YA,"51,94%","-8,01%",Rentabilidad
+Beneficio/AcciónTTM,"19,66","65,3",Datos_por_acción
+BPA BásicoANN,"10,34","10,92",Datos_por_acción
+BPA DiluidoANN,"9,73","10,72",Datos_por_acción
+Ratio Bolsa/LibrosMRQ,"19,13","54,14",Datos_por_acción
+Valor Contable Neto/AcciónMRQ,"-4,12","31,82",Datos_por_acción
+Efectivo/AcciónMRQ,"6,33","15,08",Datos_por_acción
+Flujo de caja/AcciónTTM,"10,79","18,06",Datos_por_acción
+Rentabilidad sobre fondos propiosTTM,"51,19%","9,11%",Eficacia_gestión
+Rentabilidad sobre la inversión5YA,"40,42%","39,26%",Eficacia_gestión
+Rentabilidad sobre los activosTTM,"16,71%","15,43%",Eficacia_gestión
+Rentabilidad sobre los activos5YA,"13,98%","11,78%",Eficacia_gestión
+Rentabilidad sobre la inversiónTTM,"25,67%","21,27%",Eficacia_gestión
+Rentabilidad sobre fondos propios5YA,"20,17%","16,75%",Eficacia_gestión
+BPA(MRQ) vs Trimestre 1 Año AtrásMRQ,"7,85%","60,49%",Crecimiento
+BPA(TTM) vs TTM 1 Año AtrásTTM,"14,18%","55,39%",Crecimiento
+Crecimiento del BPA en 5 Años5YA,"12,85%","16,37%",Crecimiento
+Ventas (MRQ) vs Trimestre 1 Año AtrásMRQ,"10,15%","13,75%",Crecimiento
+Ventas (TTM) vs TTM 1 Año AtrásTTM,"10,35%","14,78%",Crecimiento
+Crecimiento de las Ventas en 5 Años5YA,"9,35%","17,73%",Crecimiento
+Crecimiento del Consumo de Capital en 5 Años5YA,"10,7%","12,09%",Crecimiento
+Test ácidoMRQ,"0,71","1,67",Fuerza_financiera
+Ratio de solvenciaMRQ,"1,12","1,92",Fuerza_financiera
+Deuda a largo plazo/Total fondos propiosMRQ,"43,56%","50,65%",Fuerza_financiera
+Total deuda/Total fondos propiosMRQ,"53,82%","61,81%",Fuerza_financiera
+Rotación de ActivosTTM,"0,4","0,65",Eficiencia
+Rotación de InventariosTTM,-,"43,16",Eficiencia
+Ingresos /EmpleadoTTM,"1,16","1,99",Eficiencia
+Beneficio neto/EmpleadoTTM,"0,63","0,47",Eficiencia
+Rotación de Cuentas a CobrarTTM,"6,51","11,05",Eficiencia
+Rentabilidad por DividendoANN,"0,62%","0,43%",Dividendo
+Promedio de Rendimiento del Dividendo en 5 Años5YA,"0,5%","0,49%",Dividendo
+Tasa de Crecimiento de los DividendosANN,"13,46%","3,27%",Dividendo
+Ratio PayoutTTM,"21,67%","17,04%",Dividendo
